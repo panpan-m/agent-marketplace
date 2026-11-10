@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.exp78-telldone",
+  "description": "Voice-first planning — notes, tasks, events and AI reports. 21 tools. iOS + Apple Watch.",
+  "homepage": "https://github.com/exp78/telldone-mcp",
+  "repository": "https://github.com/exp78/telldone-mcp",
+  "license": "See upstream repository"
+}

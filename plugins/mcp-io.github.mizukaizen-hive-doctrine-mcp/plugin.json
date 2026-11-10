@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.mizukaizen-hive-doctrine-mcp",
+  "description": "Agent knowledge marketplace. 105 products, 6 MCP tools, x402 payments on Base network.",
+  "homepage": "https://github.com/mizukaizen/hive-doctrine-mcp",
+  "repository": "https://github.com/mizukaizen/hive-doctrine-mcp",
+  "license": "See upstream repository"
+}

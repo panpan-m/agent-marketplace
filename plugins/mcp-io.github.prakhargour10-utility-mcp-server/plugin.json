@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.prakhargour10-utility-mcp-server",
+  "description": "List and fetch official Pine Labs SDK API documentation via MCP tools.",
+  "homepage": "https://github.com/prakhargour10/utility-mcp-server",
+  "repository": "https://github.com/prakhargour10/utility-mcp-server",
+  "license": "See upstream repository"
+}

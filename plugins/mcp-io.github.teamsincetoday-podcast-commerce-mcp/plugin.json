@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.teamsincetoday-podcast-commerce-mcp",
+  "description": "Extract product mentions from podcast transcripts with affiliate signals. Free tier 200/day.",
+  "homepage": "https://github.com/teamsincetoday/podcast-commerce-mcp",
+  "repository": "https://github.com/teamsincetoday/podcast-commerce-mcp",
+  "license": "See upstream repository"
+}

@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.teamsincetoday-recipe-commerce-mcp",
+  "description": "Extract shoppable ingredients from recipe content with affiliate signals.",
+  "homepage": "https://github.com/teamsincetoday/recipe-commerce-mcp",
+  "repository": "https://github.com/teamsincetoday/recipe-commerce-mcp",
+  "license": "See upstream repository"
+}

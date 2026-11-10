@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-eu.ansvar-thailand-law-mcp",
+  "description": "Thai law database — PDPA, Computer Crime Act, Cybersecurity Act, ETA with full-text search",
+  "homepage": "https://github.com/Ansvar-Systems/thailand-law-mcp",
+  "repository": "https://github.com/Ansvar-Systems/thailand-law-mcp",
+  "license": "See upstream repository"
+}

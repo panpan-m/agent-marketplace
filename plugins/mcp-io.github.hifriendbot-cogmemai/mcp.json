@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/mcp.schema.json",
+  "mcpServers": {
+    "io.github.hifriendbot-cogmemai": {
+      "type": "streamable-http",
+      "url": "https://hifriendbot.com/mcp/"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/mcp.schema.json",
+  "mcpServers": {
+    "io.github.aarna-ai-atv": {
+      "type": "streamable-http",
+      "url": "https://atv-api.aarna.ai/mcp"
+    }
+  }
+}

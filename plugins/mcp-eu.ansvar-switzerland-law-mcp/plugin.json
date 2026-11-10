@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-eu.ansvar-switzerland-law-mcp",
+  "description": "Swiss law database — nFADP/DSG, information security, telecommunications with full-text search",
+  "homepage": "https://github.com/Ansvar-Systems/switzerland-law-mcp",
+  "repository": "https://github.com/Ansvar-Systems/switzerland-law-mcp",
+  "license": "See upstream repository"
+}

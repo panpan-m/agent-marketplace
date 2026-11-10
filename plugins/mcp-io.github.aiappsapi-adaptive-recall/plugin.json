@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.aiappsapi-adaptive-recall",
+  "description": "Adaptive memory system with cognitive scoring, knowledge graph, and self-improving ML.",
+  "homepage": "https://github.com/AIAppsAPI/adaptive-recall",
+  "repository": "https://github.com/AIAppsAPI/adaptive-recall",
+  "license": "See upstream repository"
+}

@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.contentforge-press-shopify-intel",
+  "description": "Monitor public Shopify stores: free snapshot, paid change intel, competitor reports via x402 USDC.",
+  "license": "See upstream repository"
+}

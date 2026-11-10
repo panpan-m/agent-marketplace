@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/mcp.schema.json",
+  "mcpServers": {
+    "io.github.contentforge-press-github-intel": {
+      "type": "streamable-http",
+      "url": "https://s-github.pixharvest.com/mcp"
+    }
+  }
+}

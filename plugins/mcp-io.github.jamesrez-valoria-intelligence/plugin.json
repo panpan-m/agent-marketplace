@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.jamesrez-valoria-intelligence",
+  "description": "Find where the money is in AI services. See what's earning and find market gaps.",
+  "homepage": "https://github.com/jamesrez/valoria-intelligence",
+  "repository": "https://github.com/jamesrez/valoria-intelligence",
+  "license": "See upstream repository"
+}

@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.meltingpixelsai-zero-core-budget",
+  "description": "Agent spending mgmt, budget tracking, ROI. Zero Core Budget.",
+  "homepage": "https://github.com/meltingpixelsai/harvey-budget",
+  "repository": "https://github.com/meltingpixelsai/harvey-budget",
+  "license": "See upstream repository"
+}

@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.webios2026-byte-solradar-mcp",
+  "description": "Solana meme-coin trust scores, rug-risk flags, and wallet analytics from SolRadar.",
+  "homepage": "https://github.com/webios2026-byte/solradar-mcp",
+  "repository": "https://github.com/webios2026-byte/solradar-mcp",
+  "license": "See upstream repository"
+}

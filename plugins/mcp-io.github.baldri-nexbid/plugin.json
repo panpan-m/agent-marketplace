@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.baldri-nexbid",
+  "description": "AI agent product discovery via open marketplace. Search, compare and discover advertiser products.",
+  "homepage": "https://github.com/Baldri/nexbid",
+  "repository": "https://github.com/Baldri/nexbid",
+  "license": "See upstream repository"
+}

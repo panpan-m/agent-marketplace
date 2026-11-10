@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.contentforge-press-github-intel",
+  "description": "Track public GitHub repos: free snapshot, paid release, star & issue intel via x402 USDC.",
+  "license": "See upstream repository"
+}

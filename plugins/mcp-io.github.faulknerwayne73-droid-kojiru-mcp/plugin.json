@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.faulknerwayne73-droid-kojiru-mcp",
+  "description": "Kojiru Recourse Layer — agent credit primitives (ACS, stake, draw, anchor) live on Base mainnet",
+  "homepage": "https://github.com/faulknerwayne73-droid/kojiru-platform",
+  "repository": "https://github.com/faulknerwayne73-droid/kojiru-platform",
+  "license": "See upstream repository"
+}

@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.trypeach-io-mcp",
+  "description": "Send and manage WhatsApp messages, contacts, templates, and events via Peach AI.",
+  "homepage": "https://github.com/trypeach-io/mcp",
+  "repository": "https://github.com/trypeach-io/mcp",
+  "license": "See upstream repository"
+}

@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.do-droid-seoul-essentials",
+  "description": "22,000+ Seoul public facility data for tourists: restrooms, pharmacies, WiFi, AEDs, and subway.",
+  "homepage": "https://github.com/do-droid/seoul-essentials",
+  "repository": "https://github.com/do-droid/seoul-essentials",
+  "license": "See upstream repository"
+}

@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.moltstudios-lumnix",
+  "description": "E-commerce research via MCP. Amazon, Alibaba & AliExpress product search and FBA margins.",
+  "homepage": "https://github.com/moltstudios/lumnix-mcp",
+  "repository": "https://github.com/moltstudios/lumnix-mcp",
+  "license": "See upstream repository"
+}

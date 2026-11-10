@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.meltingpixelsai-relayzero",
+  "description": "Agent economy on Solana — USDC via x402. Ships a BuyerAgent SDK + relayzero pay CLI.",
+  "homepage": "https://github.com/meltingpixelsai/relayzero",
+  "repository": "https://github.com/meltingpixelsai/relayzero",
+  "license": "See upstream repository"
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/mcp.schema.json",
+  "mcpServers": {
+    "io.github.meltingpixelsai-harvey-budget": {
+      "type": "streamable-http",
+      "url": "https://budget.rugslayer.com/mcp"
+    }
+  }
+}

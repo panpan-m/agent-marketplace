@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.raresv-cardora-business-assistant",
+  "description": "Cardora loyalty program analytics for business owners. Customer joins, stamps, rewards, and trends.",
+  "homepage": "https://github.com/raresv/neocards",
+  "repository": "https://github.com/raresv/neocards",
+  "license": "See upstream repository"
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/mcp.schema.json",
+  "mcpServers": {
+    "eu.ansvar-cambodian-law-mcp": {
+      "type": "streamable-http",
+      "url": "https://cambodian-law-mcp.vercel.app/mcp"
+    }
+  }
+}

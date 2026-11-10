@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.laundromatic-shopgraph",
+  "description": "Clean product data from any URL. Schema.org + AI extraction. 200 free calls/month.",
+  "homepage": "https://github.com/laundromatic/shopgraph",
+  "repository": "https://github.com/laundromatic/shopgraph",
+  "license": "See upstream repository"
+}

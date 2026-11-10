@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.mountainmystic-hederatoolbox",
+  "description": "Hedera blockchain intelligence for AI agents. 23 tools, 7 modules. HBAR micropayments. No signup.",
+  "license": "See upstream repository"
+}

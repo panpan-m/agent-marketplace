@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.meltingpixelsai-zero-core-verify",
+  "description": "Post-tx outcome verification via LLM-as-judge. Zero Core Verify.",
+  "homepage": "https://github.com/meltingpixelsai/harvey-verify",
+  "repository": "https://github.com/meltingpixelsai/harvey-verify",
+  "license": "See upstream repository"
+}

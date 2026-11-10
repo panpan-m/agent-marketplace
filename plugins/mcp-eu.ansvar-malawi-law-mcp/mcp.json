@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/mcp.schema.json",
+  "mcpServers": {
+    "eu.ansvar-malawi-law-mcp": {
+      "type": "streamable-http",
+      "url": "https://malawi-law-mcp.vercel.app/mcp"
+    }
+  }
+}

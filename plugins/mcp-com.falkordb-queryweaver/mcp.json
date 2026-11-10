@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/mcp.schema.json",
+  "mcpServers": {
+    "com.falkordb-queryweaver": {
+      "type": "streamable-http",
+      "url": "https://localhost:5000/mcp"
+    }
+  }
+}

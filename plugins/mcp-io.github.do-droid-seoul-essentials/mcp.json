@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/mcp.schema.json",
+  "mcpServers": {
+    "io.github.do-droid-seoul-essentials": {
+      "type": "streamable-http",
+      "url": "https://seoul-essentials-mcp-230987091625.asia-northeast3.run.app/mcp"
+    }
+  }
+}

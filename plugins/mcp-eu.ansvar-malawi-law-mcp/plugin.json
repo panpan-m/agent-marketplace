@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-eu.ansvar-malawi-law-mcp",
+  "description": "Malawi legislation via MCP -- full-text search across statutes and provisions",
+  "homepage": "https://github.com/Ansvar-Systems/malawi-law-mcp",
+  "repository": "https://github.com/Ansvar-Systems/malawi-law-mcp",
+  "license": "See upstream repository"
+}

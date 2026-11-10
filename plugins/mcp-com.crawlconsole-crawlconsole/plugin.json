@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-com.crawlconsole-crawlconsole",
+  "description": "Backlink Analysis MCP for AI Agents: authority, referring domains, and competitor link gaps.",
+  "license": "See upstream repository"
+}

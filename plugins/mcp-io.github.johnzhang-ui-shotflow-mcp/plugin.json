@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.johnzhang-ui-shotflow-mcp",
+  "description": "ShotFlow MCP Server — AI分镜脚本与视频生成智能体，支持生成专业分镜、视频、镜头重生成、配额查询等能力。",
+  "homepage": "https://github.com/JOHNZhang-ui/shotflow-mcp",
+  "repository": "https://github.com/JOHNZhang-ui/shotflow-mcp",
+  "license": "See upstream repository"
+}

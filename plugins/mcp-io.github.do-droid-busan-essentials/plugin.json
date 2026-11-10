@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.do-droid-busan-essentials",
+  "description": "Find the nearest restroom, pharmacy, WiFi, or AED in Busan, Korea. 8,680 places, Korean+English.",
+  "homepage": "https://github.com/do-droid/busan-essentials",
+  "repository": "https://github.com/do-droid/busan-essentials",
+  "license": "See upstream repository"
+}

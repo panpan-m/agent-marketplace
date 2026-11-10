@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/mcp.schema.json",
+  "mcpServers": {
+    "io.github.rodrigojille-kustodia-escrow": {
+      "type": "sse",
+      "url": "https://api.kustodia.app/api/v1/mcp/sse"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.jamesrez-valoria",
+  "description": "Make money with x402. See what's earning, find profitable gaps, and price your service right.",
+  "homepage": "https://github.com/jamesrez/valoria-intelligence",
+  "repository": "https://github.com/jamesrez/valoria-intelligence",
+  "license": "See upstream repository"
+}

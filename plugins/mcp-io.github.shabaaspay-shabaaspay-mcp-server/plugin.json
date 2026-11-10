@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.shabaaspay-shabaaspay-mcp-server",
+  "description": "MCP server for PayTo agreements and payment initiation in Australia.",
+  "homepage": "https://github.com/shabaaspay/shabaaspay-mcp-server",
+  "repository": "https://github.com/shabaaspay/shabaaspay-mcp-server",
+  "license": "See upstream repository"
+}

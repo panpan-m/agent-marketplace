@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.us1929-switchai",
+  "description": "Compare Italian energy tariffs with AI. Analyzes bills, finds best offers, live market indices.",
+  "homepage": "https://github.com/US1929/switchai",
+  "repository": "https://github.com/US1929/switchai",
+  "license": "See upstream repository"
+}

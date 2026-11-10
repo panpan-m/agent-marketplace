@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.meltingpixelsai-harvey-tools",
+  "description": "Web scraping, code review, content generation, and analysis tools. Pay-per-call USDC.",
+  "homepage": "https://github.com/meltingpixelsai/harvey-tools",
+  "repository": "https://github.com/meltingpixelsai/harvey-tools",
+  "license": "See upstream repository"
+}

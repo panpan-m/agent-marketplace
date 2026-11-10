@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.teamsincetoday-newsletter-commerce-mcp",
+  "description": "Extract shoppable products from newsletter content with affiliate signals.",
+  "homepage": "https://github.com/teamsincetoday/newsletter-commerce-mcp",
+  "repository": "https://github.com/teamsincetoday/newsletter-commerce-mcp",
+  "license": "See upstream repository"
+}

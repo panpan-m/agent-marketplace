@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.rodrigojille-kustodia-escrow",
+  "description": "Agentic escrow payments — fiat + crypto, 36 MCP tools, 10 chains, FHE privacy",
+  "homepage": "https://github.com/rodrigojille/kustodia_api",
+  "repository": "https://github.com/rodrigojille/kustodia_api",
+  "license": "See upstream repository"
+}

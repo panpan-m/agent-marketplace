@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.aarna-ai-atv",
+  "description": "Access Aarna's DeFi yield vaults — query NAV/TVL/APY, build transactions, track portfolios.",
+  "homepage": "https://github.com/aarna-ai/atv-sdk",
+  "repository": "https://github.com/aarna-ai/atv-sdk",
+  "license": "See upstream repository"
+}

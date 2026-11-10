@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/mcp.schema.json",
+  "mcpServers": {
+    "eu.ansvar-uae-law-mcp": {
+      "type": "streamable-http",
+      "url": "https://uae-law-mcp.vercel.app/mcp"
+    }
+  }
+}

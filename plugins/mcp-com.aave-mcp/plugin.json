@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-com.aave-mcp",
+  "description": "Official Aave MCP for V3 and V4 markets, positions, governance, and transaction preparation.",
+  "license": "See upstream repository"
+}

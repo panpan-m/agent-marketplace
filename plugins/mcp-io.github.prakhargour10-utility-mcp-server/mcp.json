@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/mcp.schema.json",
+  "mcpServers": {
+    "io.github.prakhargour10-utility-mcp-server": {
+      "type": "streamable-http",
+      "url": "https://utility-mcp-server-production.up.railway.app/mcp"
+    }
+  }
+}

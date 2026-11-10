@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.mountainmystic-hedera-mcp-platform",
+  "description": "Hedera ecosystem intelligence for AI agents. 29 tools, pay per call in HBAR. HITL enforced.",
+  "license": "See upstream repository"
+}

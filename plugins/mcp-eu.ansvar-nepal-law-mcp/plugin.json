@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-eu.ansvar-nepal-law-mcp",
+  "description": "Nepal legislation via MCP -- full-text search across statutes and provisions",
+  "homepage": "https://github.com/Ansvar-Systems/nepal-law-mcp",
+  "repository": "https://github.com/Ansvar-Systems/nepal-law-mcp",
+  "license": "See upstream repository"
+}

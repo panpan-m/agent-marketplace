@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.mister-franklin-gdpr-decisions",
+  "description": "EU GDPR decisions by thedpo.eu — search all EU DPA decisions and recommendations",
+  "homepage": "https://github.com/mister-franklin/mcp-gdpr-decisions",
+  "repository": "https://github.com/mister-franklin/mcp-gdpr-decisions",
+  "license": "See upstream repository"
+}

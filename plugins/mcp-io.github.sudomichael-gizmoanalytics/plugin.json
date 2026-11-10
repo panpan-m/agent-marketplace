@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.sudomichael-gizmoanalytics",
+  "description": "Cookieless analytics for AI coding agents. Install in one prompt, 28 tools, OAuth onboarding.",
+  "homepage": "https://github.com/sudomichael/analyticsautopilot",
+  "repository": "https://github.com/sudomichael/analyticsautopilot",
+  "license": "See upstream repository"
+}

@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.aybeeare-water-conditions",
+  "description": "Real-time water temperature and tides for 8,000+ locations, by name or lat/long coordinates.",
+  "homepage": "https://github.com/aybeeare/water-temp-fishing-guide",
+  "repository": "https://github.com/aybeeare/water-temp-fishing-guide",
+  "license": "See upstream repository"
+}

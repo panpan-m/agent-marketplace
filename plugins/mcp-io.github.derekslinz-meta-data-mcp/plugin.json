@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.derekslinz-meta-data-mcp",
+  "description": "Query 76 open data APIs — government, science, finance, environment, and more.",
+  "homepage": "https://github.com/derekslinz/meta-data-mcp",
+  "repository": "https://github.com/derekslinz/meta-data-mcp",
+  "license": "See upstream repository"
+}

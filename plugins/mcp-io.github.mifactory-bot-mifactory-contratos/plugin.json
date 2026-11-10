@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.mifactory-bot-mifactory-contratos",
+  "description": "Freelance contracts via API for any country. AI-generated or PDF. Pay-per-use: $5-$20.",
+  "homepage": "https://github.com/mifactory-bot/freelance-contracts",
+  "repository": "https://github.com/mifactory-bot/freelance-contracts",
+  "license": "See upstream repository"
+}

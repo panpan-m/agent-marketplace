@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.meltingpixelsai-harvey-intel",
+  "description": "Token safety, trading signals, and social intel for AI agents. Pay-per-call USDC.",
+  "homepage": "https://github.com/meltingpixelsai/harvey-intel",
+  "repository": "https://github.com/meltingpixelsai/harvey-intel",
+  "license": "See upstream repository"
+}

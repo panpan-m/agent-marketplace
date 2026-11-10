@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.norrietaylor-distillery-mcp",
+  "description": "Knowledge base for Claude Code with semantic search, feed intelligence, and teams",
+  "homepage": "https://github.com/norrietaylor/distillery",
+  "repository": "https://github.com/norrietaylor/distillery",
+  "license": "See upstream repository"
+}

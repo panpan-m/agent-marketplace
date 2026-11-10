@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-link.aotrust-notary",
+  "description": "Cryptographic proof of existence for AI agents. x402 on Base or Solana, NEAR anchored. Free tier.",
+  "homepage": "https://github.com/GitSerge-crypto/aotrust-skills",
+  "repository": "https://github.com/GitSerge-crypto/aotrust-skills",
+  "license": "See upstream repository"
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/mcp.schema.json",
+  "mcpServers": {
+    "io.github.teamsincetoday-recipe-commerce-mcp": {
+      "type": "streamable-http",
+      "url": "https://recipe-commerce-mcp.sincetoday.workers.dev/mcp"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.alexfloyd13-clevername-mcp",
+  "description": "AI agent governance — security scanning, BYOK routing, audit logging, and Council approvals.",
+  "homepage": "https://github.com/AlexFloyd13/clevername",
+  "repository": "https://github.com/AlexFloyd13/clevername",
+  "license": "See upstream repository"
+}

@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.thingery-thingery",
+  "description": "Open item database and MCP server for AI agents to list, find, and trade second-hand goods.",
+  "homepage": "https://github.com/thingery/thingery",
+  "repository": "https://github.com/thingery/thingery",
+  "license": "See upstream repository"
+}

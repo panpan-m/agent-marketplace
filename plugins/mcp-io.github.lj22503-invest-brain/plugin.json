@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.lj22503-invest-brain",
+  "description": "A-share investment research: quotes, financials, behavior patterns, and trading journals.",
+  "homepage": "https://github.com/lj22503/invest-brain",
+  "repository": "https://github.com/lj22503/invest-brain",
+  "license": "See upstream repository"
+}

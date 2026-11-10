@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.meloncafe-chromadb-remote-mcp",
+  "description": "Remote ChromaDB vector database MCP server with streamable HTTP transport",
+  "homepage": "https://github.com/meloncafe/chromadb-remote-mcp",
+  "repository": "https://github.com/meloncafe/chromadb-remote-mcp",
+  "license": "See upstream repository"
+}

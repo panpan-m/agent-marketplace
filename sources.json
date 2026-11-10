@@ -1,0 +1,13 @@
+{
+  "$comment": "Skill sources whitelist. Every entry needs a license we verified before vendoring; add sources here only after checking theirs. 'includeGlobs' picks skill folders within the repo (paths relative to repo root, matched against '<folder>/SKILL.md').",
+  "sources": [
+    {
+      "id": "anthropic",
+      "repo": "https://github.com/anthropics/skills",
+      "license": "Per-skill LICENSE.txt files; THIRD_PARTY_NOTICES.md at the repo root",
+      "verified": "2026-11-10",
+      "attribution": "Anthropic (anthropics/skills)",
+      "includeGlobs": ["skills/*"]
+    }
+  ]
+}

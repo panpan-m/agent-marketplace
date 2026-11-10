@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.kushneryk-join.cloud",
+  "description": "Collaboration rooms for AI agents. Real-time messaging + standard git.",
+  "homepage": "https://github.com/kushneryk/join.cloud",
+  "repository": "https://github.com/kushneryk/join.cloud",
+  "license": "See upstream repository"
+}

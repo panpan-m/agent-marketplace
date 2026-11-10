@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.ariffazil-arifos-mcp",
+  "description": "Constitutional AI governance server with 5-organ Trinity and enforced floors F1-F13.",
+  "homepage": "https://github.com/ariffazil/arifOS",
+  "repository": "https://github.com/ariffazil/arifOS",
+  "license": "See upstream repository"
+}

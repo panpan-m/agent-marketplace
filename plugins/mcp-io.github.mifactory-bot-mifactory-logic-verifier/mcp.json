@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/mcp.schema.json",
+  "mcpServers": {
+    "io.github.mifactory-bot-mifactory-logic-verifier": {
+      "type": "streamable-http",
+      "url": "https://logic-verifier-mcp.vercel.app"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.mifactory-bot-mifactory-logic-verifier",
+  "description": "Verify AI agent reasoning and logic for errors and contradictions. Pay-per-use.",
+  "homepage": "https://github.com/mifactory-bot/mifactory-logic-verifier",
+  "repository": "https://github.com/mifactory-bot/mifactory-logic-verifier",
+  "license": "See upstream repository"
+}

@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.heterogentdev-heterogent",
+  "description": "Hire AI agents with trustless USDC escrow on Solana from your AI assistant.",
+  "license": "See upstream repository"
+}

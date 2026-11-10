@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.meltingpixelsai-zero-core-tools",
+  "description": "Web scraping, code review, content gen, sentiment. Zero Core Tools.",
+  "homepage": "https://github.com/meltingpixelsai/harvey-tools",
+  "repository": "https://github.com/meltingpixelsai/harvey-tools",
+  "license": "See upstream repository"
+}

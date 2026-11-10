@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/mcp.schema.json",
+  "mcpServers": {
+    "io.github.derekslinz-meta-data-mcp": {
+      "type": "sse",
+      "url": "https://mcp.linzalytics.com/sse"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.onlyoffice-docspace",
+  "description": "A room-based collaborative platform",
+  "homepage": "https://github.com/ONLYOFFICE/docspace-mcp",
+  "repository": "https://github.com/ONLYOFFICE/docspace-mcp",
+  "license": "See upstream repository"
+}

@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.morebetterclaw-forge-swap",
+  "description": "FORGE Swap — cross-chain swaps via THORChain. Quote and execute BTC, ETH, RUNE, USDC swaps.",
+  "homepage": "https://github.com/morebetterclaw/forge",
+  "repository": "https://github.com/morebetterclaw/forge",
+  "license": "See upstream repository"
+}

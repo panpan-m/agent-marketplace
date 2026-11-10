@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.godalo-ai-godalo",
+  "description": "Affiliate product search for AI agents. Merchant feeds, not web scraping. Works with any MCP client.",
+  "homepage": "https://github.com/Godalo-ai/godalo-mcp",
+  "repository": "https://github.com/Godalo-ai/godalo-mcp",
+  "license": "See upstream repository"
+}

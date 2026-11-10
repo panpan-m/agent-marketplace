@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.meltingpixelsai-harvey-verify",
+  "description": "Post-transaction outcome verification. LLM-as-judge for agent service quality.",
+  "homepage": "https://github.com/meltingpixelsai/harvey-verify",
+  "repository": "https://github.com/meltingpixelsai/harvey-verify",
+  "license": "See upstream repository"
+}

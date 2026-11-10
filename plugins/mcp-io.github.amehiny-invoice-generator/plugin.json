@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.amehiny-invoice-generator",
+  "description": "Free invoice generator — create pre-filled invoice URLs with taxes, discounts, and 14 languages.",
+  "homepage": "https://github.com/amehiny/invoices-gen",
+  "repository": "https://github.com/amehiny/invoices-gen",
+  "license": "See upstream repository"
+}

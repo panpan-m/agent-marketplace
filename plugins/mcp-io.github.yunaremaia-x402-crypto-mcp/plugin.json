@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.yunaremaia-x402-crypto-mcp",
+  "description": "Crypto market data via x402: prices, convert, indicators, yields, gas, tx status, balances, ENS.",
+  "homepage": "https://github.com/yunaremaia/x402-crypto-mcp",
+  "repository": "https://github.com/yunaremaia/x402-crypto-mcp",
+  "license": "See upstream repository"
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/mcp.schema.json",
+  "mcpServers": {
+    "io.github.aybeeare-water-conditions": {
+      "type": "streamable-http",
+      "url": "https://water-temp-fishing-guide-production.up.railway.app/mcp"
+    }
+  }
+}

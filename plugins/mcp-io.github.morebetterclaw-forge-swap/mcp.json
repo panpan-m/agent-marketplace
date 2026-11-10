@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/mcp.schema.json",
+  "mcpServers": {
+    "io.github.morebetterclaw-forge-swap": {
+      "type": "streamable-http",
+      "url": "https://forge-api-production-50de.up.railway.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/mcp.schema.json",
+  "mcpServers": {
+    "eu.ansvar-ugandan-law-mcp": {
+      "type": "streamable-http",
+      "url": "https://ugandan-law-mcp.vercel.app/mcp"
+    }
+  }
+}

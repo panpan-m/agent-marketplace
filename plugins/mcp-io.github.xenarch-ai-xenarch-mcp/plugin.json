@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.xenarch-ai-xenarch-mcp",
+  "description": "Xenarch — x402 MCP server for AI agent payments. Non-custodial, USDC on Base L2.",
+  "homepage": "https://github.com/xenarch-ai/xenarch-mcp",
+  "repository": "https://github.com/xenarch-ai/xenarch-mcp",
+  "license": "See upstream repository"
+}

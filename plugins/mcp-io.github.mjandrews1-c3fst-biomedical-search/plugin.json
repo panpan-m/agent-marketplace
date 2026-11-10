@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.mjandrews1-c3fst-biomedical-search",
+  "description": "Biomedical search: FDA drugs, MeSH headings, ClinVar genomic variants with BM25 ranking.",
+  "homepage": "https://github.com/mjandrews1/c3fst",
+  "repository": "https://github.com/mjandrews1/c3fst",
+  "license": "See upstream repository"
+}

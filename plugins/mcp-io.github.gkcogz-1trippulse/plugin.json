@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.gkcogz-1trippulse",
+  "description": "1trip PULSE: 21-tool AI travel planner. Flights, hotels, visa, safety, weather, 120+ cities.",
+  "homepage": "https://github.com/gkcogz/OneTrip-Beta",
+  "repository": "https://github.com/gkcogz/OneTrip-Beta",
+  "license": "See upstream repository"
+}

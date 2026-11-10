@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/mcp.schema.json",
+  "mcpServers": {
+    "io.github.alexfloyd13-clevername-mcp": {
+      "type": "streamable-http",
+      "url": "https://clevername.net/api/hub/mcp/gateway"
+    }
+  }
+}

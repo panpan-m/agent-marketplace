@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.shuangshuang007-workopia",
+  "description": "Workopia - free MCP for global job search, PDF resume builder, and AI career advice.",
+  "homepage": "https://github.com/workopia/workopia-mcp",
+  "repository": "https://github.com/workopia/workopia-mcp",
+  "license": "See upstream repository"
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/mcp.schema.json",
+  "mcpServers": {
+    "io.github.meltingpixelsai-zero-core-intel": {
+      "type": "streamable-http",
+      "url": "https://agents.rugslayer.com/mcp"
+    }
+  }
+}

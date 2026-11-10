@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-eu.ansvar-uae-law-mcp",
+  "description": "UAE legislation via MCP — full-text search across federal laws, DIFC laws, and ADGM regulations",
+  "homepage": "https://github.com/Ansvar-Systems/uae-law-mcp",
+  "repository": "https://github.com/Ansvar-Systems/uae-law-mcp",
+  "license": "See upstream repository"
+}

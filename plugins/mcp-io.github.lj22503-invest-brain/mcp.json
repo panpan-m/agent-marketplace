@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/mcp.schema.json",
+  "mcpServers": {
+    "io.github.lj22503-invest-brain": {
+      "type": "sse",
+      "url": "https://brain.mangofolio.com/sse"
+    }
+  }
+}

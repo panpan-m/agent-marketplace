@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.verityscore-geo-audit",
+  "description": "GEO audit for Shopify: AI readiness score, recommendations, and 15 vertical checklists.",
+  "homepage": "https://github.com/Milka974/verityscore-mcp",
+  "repository": "https://github.com/Milka974/verityscore-mcp",
+  "license": "See upstream repository"
+}

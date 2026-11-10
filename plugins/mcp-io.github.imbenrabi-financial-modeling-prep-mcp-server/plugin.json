@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.imbenrabi-financial-modeling-prep-mcp-server",
+  "description": "MCP server for Financial Modeling Prep API with 250+ financial data tools",
+  "homepage": "https://github.com/imbenrabi/Financial-Modeling-Prep-MCP-Server",
+  "repository": "https://github.com/imbenrabi/Financial-Modeling-Prep-MCP-Server",
+  "license": "See upstream repository"
+}

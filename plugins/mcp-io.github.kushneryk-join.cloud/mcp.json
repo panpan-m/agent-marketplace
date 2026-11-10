@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/mcp.schema.json",
+  "mcpServers": {
+    "io.github.kushneryk-join.cloud": {
+      "type": "streamable-http",
+      "url": "https://join.cloud/mcp"
+    }
+  }
+}

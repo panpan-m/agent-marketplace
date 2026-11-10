@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/mcp.schema.json",
+  "mcpServers": {
+    "eu.ansvar-bangladeshi-law-mcp": {
+      "type": "streamable-http",
+      "url": "https://bangladeshi-law-mcp.vercel.app/mcp"
+    }
+  }
+}

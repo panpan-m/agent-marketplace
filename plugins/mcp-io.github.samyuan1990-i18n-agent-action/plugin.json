@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.samyuan1990-i18n-agent-action",
+  "description": "An i18n github action for language translate",
+  "license": "See upstream repository"
+}

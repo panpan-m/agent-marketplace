@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.littleblakew-msds-chain",
+  "description": "Chemical safety intelligence — 27 tools: compatibility, hazards, PPE, compliance, SDS lookup",
+  "homepage": "https://github.com/littleblakew/msds-chain-mcp",
+  "repository": "https://github.com/littleblakew/msds-chain-mcp",
+  "license": "See upstream repository"
+}

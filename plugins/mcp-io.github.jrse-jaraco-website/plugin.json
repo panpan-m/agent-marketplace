@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.jrse-jaraco-website",
+  "description": "Jaraco GmbH Website MCP Server - programmatic access to content",
+  "homepage": "https://github.com/jaracogmbh/jarakube-jaraco-app",
+  "repository": "https://github.com/jaracogmbh/jarakube-jaraco-app",
+  "license": "See upstream repository"
+}

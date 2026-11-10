@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/mcp.schema.json",
+  "mcpServers": {
+    "io.github.amehiny-invoice-generator": {
+      "type": "streamable-http",
+      "url": "https://professionalinvoicegenerator.com/api/mcp"
+    }
+  }
+}

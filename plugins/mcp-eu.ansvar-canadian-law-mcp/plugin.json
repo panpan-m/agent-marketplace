@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-eu.ansvar-canadian-law-mcp",
+  "description": "Canadian federal law database — PIPEDA, CASL, cybercrime, corporate law with full-text search",
+  "homepage": "https://github.com/Ansvar-Systems/canadian-law-mcp",
+  "repository": "https://github.com/Ansvar-Systems/canadian-law-mcp",
+  "license": "See upstream repository"
+}

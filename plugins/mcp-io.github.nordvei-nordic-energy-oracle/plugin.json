@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.nordvei-nordic-energy-oracle",
+  "description": "Nordic energy price intelligence for Norway's 5 bidding zones (NO1-NO5).",
+  "homepage": "https://github.com/Nordvei/sage-native",
+  "repository": "https://github.com/Nordvei/sage-native",
+  "license": "See upstream repository"
+}

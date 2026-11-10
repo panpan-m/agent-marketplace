@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/mcp.schema.json",
+  "mcpServers": {
+    "io.github.do-droid-busan-essentials": {
+      "type": "streamable-http",
+      "url": "https://busan-essentials-mcp-85013349489.asia-northeast3.run.app/mcp"
+    }
+  }
+}

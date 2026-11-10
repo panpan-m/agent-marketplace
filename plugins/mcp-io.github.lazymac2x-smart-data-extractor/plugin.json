@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.lazymac2x-smart-data-extractor",
+  "description": "smart-data-extractor MCP server on Cloudflare Workers · REST + MCP JSON-RPC · free tier",
+  "homepage": "https://github.com/lazymac2x/smart-data-extractor-worker",
+  "repository": "https://github.com/lazymac2x/smart-data-extractor-worker",
+  "license": "See upstream repository"
+}

@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.meltingpixelsai-zero-core-intel",
+  "description": "DrainBrain token safety, CORTEX trading signals, social trends. Zero Core Intel.",
+  "homepage": "https://github.com/meltingpixelsai/harvey-intel",
+  "repository": "https://github.com/meltingpixelsai/harvey-intel",
+  "license": "See upstream repository"
+}

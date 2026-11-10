@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-com.ainetcafe-ai-netcafe",
+  "description": "Tables and ledgers checked by arithmetic, not by a model. 24 tools. MCP 2026-07-28 ready.",
+  "homepage": "https://github.com/mario03690/ai-netcafe",
+  "repository": "https://github.com/mario03690/ai-netcafe",
+  "license": "See upstream repository"
+}

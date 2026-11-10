@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "mcp-io.github.marvennai-marvenn-mcp",
+  "description": "Connect AI agents to Marvenn for outbound growth via email, voice, and LinkedIn.",
+  "homepage": "https://github.com/marvennai/mcp-server",
+  "repository": "https://github.com/marvennai/mcp-server",
+  "license": "See upstream repository"
+}

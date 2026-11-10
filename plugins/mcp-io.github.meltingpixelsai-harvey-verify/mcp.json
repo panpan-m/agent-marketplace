@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/mcp.schema.json",
+  "mcpServers": {
+    "io.github.meltingpixelsai-harvey-verify": {
+      "type": "streamable-http",
+      "url": "https://verify.rugslayer.com/mcp"
+    }
+  }
+}

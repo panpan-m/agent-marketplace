@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/mcp.schema.json",
+  "mcpServers": {
+    "io.github.meloncafe-chromadb-remote-mcp": {
+      "type": "streamable-http",
+      "url": "https://meloncafe.github.io/chromadb-remote-mcp/mcp"
+    }
+  }
+}
