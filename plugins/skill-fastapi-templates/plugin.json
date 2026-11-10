@@ -1,0 +1,12 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "skill-fastapi-templates",
+  "description": "Create production-ready FastAPI projects with async patterns, dependency injection, and comprehensive error handling. Use when building new FastAPI applications or setting up backend API projects.",
+  "repository": "https://github.com/wshobson/agents",
+  "homepage": "https://github.com/wshobson/agents",
+  "license": "See LICENSE.txt beside SKILL.md",
+  "keywords": [
+    "skill",
+    "wshobson-agents"
+  ]
+}

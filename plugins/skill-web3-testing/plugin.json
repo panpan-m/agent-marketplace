@@ -1,0 +1,12 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "skill-web3-testing",
+  "description": "Test smart contracts comprehensively using Hardhat and Foundry with unit tests, integration tests, and mainnet forking. Use when testing Solidity contracts, setting up blockchain test suites, or validating DeFi protocols.",
+  "repository": "https://github.com/wshobson/agents",
+  "homepage": "https://github.com/wshobson/agents",
+  "license": "See LICENSE.txt beside SKILL.md",
+  "keywords": [
+    "skill",
+    "wshobson-agents"
+  ]
+}

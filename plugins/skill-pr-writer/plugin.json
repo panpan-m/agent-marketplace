@@ -1,0 +1,12 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "skill-pr-writer",
+  "description": "Create or refresh reviewer-facing PR titles and descriptions. Use when opening a PR, updating its title or body, or preparing branch changes for review.",
+  "repository": "https://github.com/getsentry/skills",
+  "homepage": "https://github.com/getsentry/skills",
+  "license": "See LICENSE.txt beside SKILL.md",
+  "keywords": [
+    "skill",
+    "getsentry"
+  ]
+}

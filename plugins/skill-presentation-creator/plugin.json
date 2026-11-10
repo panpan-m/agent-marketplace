@@ -1,0 +1,12 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "skill-presentation-creator",
+  "description": "Create data-driven presentation slides using React, Vite, and Recharts with Sentry branding. Use when asked to \"create a presentation\", \"build slides\", \"make a deck\", \"create a data presentation\", \"build a Sentry presentation\". Scaffolds a complete slide-based app with charts, animations, and single-file HTML output.",
+  "repository": "https://github.com/getsentry/skills",
+  "homepage": "https://github.com/getsentry/skills",
+  "license": "See LICENSE.txt beside SKILL.md",
+  "keywords": [
+    "skill",
+    "getsentry"
+  ]
+}

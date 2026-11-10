@@ -1,0 +1,12 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "skill-preference-optimization",
+  "description": "Align a fine-tuned model with preference data using DPO, ORPO, KTO, or SimPO. Use when preference pairs or thumbs-up/down feedback exist, when choosing between preference-optimization methods, or when a DPO run needs hyperparameters or debugging.",
+  "repository": "https://github.com/wshobson/agents",
+  "homepage": "https://github.com/wshobson/agents",
+  "license": "See LICENSE.txt beside SKILL.md",
+  "keywords": [
+    "skill",
+    "wshobson-agents"
+  ]
+}

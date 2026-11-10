@@ -1,0 +1,12 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "skill-dispatching-parallel-agents",
+  "description": "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies",
+  "repository": "https://github.com/obra/superpowers",
+  "homepage": "https://github.com/obra/superpowers",
+  "license": "See LICENSE.txt beside SKILL.md",
+  "keywords": [
+    "skill",
+    "superpowers"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "skill-commit",
+  "description": "Use for every request to commit changes or draft a commit message. Creates Sentry-style conventional commits with issue references.",
+  "repository": "https://github.com/getsentry/skills",
+  "homepage": "https://github.com/getsentry/skills",
+  "license": "See LICENSE.txt beside SKILL.md",
+  "keywords": [
+    "skill",
+    "getsentry"
+  ]
+}

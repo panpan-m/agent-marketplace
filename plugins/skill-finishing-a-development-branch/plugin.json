@@ -1,0 +1,12 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "skill-finishing-a-development-branch",
+  "description": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work",
+  "repository": "https://github.com/obra/superpowers",
+  "homepage": "https://github.com/obra/superpowers",
+  "license": "See LICENSE.txt beside SKILL.md",
+  "keywords": [
+    "skill",
+    "superpowers"
+  ]
+}

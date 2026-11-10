@@ -1,0 +1,12 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "skill-triage-frontend-issues",
+  "description": "Triage new issues in the Sentry `javascript` project by archiving non-actionable noise. Use when asked to \"triage issues\", \"triage the javascript project\", \"archive non-actionable issues\", \"triage new frontend issues\", or \"clean up the sentry/javascript queue\". Operates only on the sentry/javascript project, only archives (never resolves), and always archives with `untilEscalating`.",
+  "repository": "https://github.com/getsentry/skills",
+  "homepage": "https://github.com/getsentry/skills",
+  "license": "See LICENSE.txt beside SKILL.md",
+  "keywords": [
+    "skill",
+    "getsentry"
+  ]
+}

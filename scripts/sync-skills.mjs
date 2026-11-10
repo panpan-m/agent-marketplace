@@ -86,6 +86,12 @@ for (const source of sources) {
     }
 
     const folder = slugify(frontmatter.name || skillName, "skill-");
+    if (kept.has(folder)) {
+      // Two sources can publish the same skill name; the first one listed wins, so a
+      // later source never silently replaces content and its license.
+      console.warn(`  skip ${rel}: ${folder} was already vendored from an earlier source`);
+      continue;
+    }
     const skillFolder = safeFolderName(frontmatter.name);
     const dest = join(ROOT, "plugins", folder);
     await rm(dest, { recursive: true, force: true });
@@ -96,6 +102,16 @@ for (const source of sources) {
       const target = join(dest, "skills", skillFolder, suffix);
       await mkdir(join(target, ".."), { recursive: true });
       await cp(join(work, companion), target);
+    }
+    // Every skill keeps a license beside it; a repo-wide one covers skills that ship none.
+    const carriesLicense = [rel, ...companions].some((file) =>
+      /(^|\/)licen[cs]e(\.[a-z]+)?$/i.test(file),
+    );
+    if (!carriesLicense) {
+      const rootLicense = files.find((file) => /^licen[cs]e(\.[a-z]+)?$/i.test(file));
+      if (rootLicense) {
+        await cp(join(work, rootLicense), join(dest, "skills", skillFolder, "LICENSE.txt"));
+      }
     }
     await writeFile(
       join(dest, "plugin.json"),

@@ -8,6 +8,46 @@
       "verified": "2026-11-10",
       "attribution": "Anthropic (anthropics/skills)",
       "includeGlobs": ["skills/*"]
+    },
+    {
+      "id": "superpowers",
+      "repo": "https://github.com/obra/superpowers",
+      "license": "MIT",
+      "verified": "2026-11-10",
+      "attribution": "Jesse Vincent (obra/superpowers)",
+      "includeGlobs": ["skills/*"]
+    },
+    {
+      "id": "wshobson-agents",
+      "repo": "https://github.com/wshobson/agents",
+      "license": "MIT",
+      "verified": "2026-11-10",
+      "attribution": "wshobson/agents",
+      "includeGlobs": ["plugins/*/skills/*"]
+    },
+    {
+      "id": "cloudflare",
+      "repo": "https://github.com/cloudflare/skills",
+      "license": "Apache-2.0",
+      "verified": "2026-11-10",
+      "attribution": "Cloudflare",
+      "includeGlobs": ["skills/*"]
+    },
+    {
+      "id": "getsentry",
+      "repo": "https://github.com/getsentry/skills",
+      "license": "Apache-2.0",
+      "verified": "2026-11-10",
+      "attribution": "Sentry",
+      "includeGlobs": ["skills/*"]
+    },
+    {
+      "id": "vercel-labs",
+      "repo": "https://github.com/vercel-labs/skills",
+      "license": "MIT",
+      "verified": "2026-11-10",
+      "attribution": "Vercel Labs (vercel-labs/skills)",
+      "includeGlobs": ["skills/*"]
     }
   ]
 }

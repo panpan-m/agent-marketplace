@@ -15,6 +15,76 @@
       }
     },
     {
+      "name": "accessibility-compliance",
+      "description": "Implement WCAG 2.2 compliant interfaces with mobile accessibility, inclusive design patterns, and assistive technology support. Use when auditing accessibility, implementing ARIA patterns, building for screen readers, or ensuring inclusive user experiences.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-accessibility-compliance"
+      }
+    },
+    {
+      "name": "agents-md",
+      "description": "Creates and maintains concise AGENTS.md and CLAUDE.md project instruction files. Use when asked to create AGENTS.md, update AGENTS.md, maintain agent docs, set up CLAUDE.md, document repository agent conventions, or keep coding-agent instructions minimal and reference-backed.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "getsentry"
+      ],
+      "homepage": "https://github.com/getsentry/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-agents-md"
+      }
+    },
+    {
+      "name": "agents-sdk",
+      "description": "Build, debug, or review Cloudflare Agents SDK applications using the agents package.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "cloudflare"
+      ],
+      "homepage": "https://github.com/cloudflare/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-agents-sdk"
+      }
+    },
+    {
+      "name": "ai-debt-detector",
+      "description": ">-",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-ai-debt-detector"
+      }
+    },
+    {
+      "name": "airflow-dag-patterns",
+      "description": "Build production Apache Airflow DAGs with best practices for operators, sensors, testing, and deployment. Use when creating data pipelines, orchestrating workflows, or scheduling batch jobs.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-airflow-dag-patterns"
+      }
+    },
+    {
       "name": "algorithmic-art",
       "description": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields, or particle systems. Create original algorithmic art rather than copying existing artists' work to avoid copyright violations.",
       "category": "productivity",
@@ -29,6 +99,48 @@
       }
     },
     {
+      "name": "angular-migration",
+      "description": "Migrate from AngularJS to Angular using hybrid mode, incremental component rewriting, and dependency injection updates. Use when upgrading AngularJS applications, planning framework migrations, or modernizing legacy Angular code.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-angular-migration"
+      }
+    },
+    {
+      "name": "anti-reversing-techniques",
+      "description": "Understand anti-reversing, obfuscation, and protection techniques encountered during software analysis. Use this skill when analyzing malware evasion techniques, when implementing anti-debugging protections for CTF challenges, when reverse engineering packed binaries, or when building security research tools that need to detect virtualized environments.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-anti-reversing-techniques"
+      }
+    },
+    {
+      "name": "api-design-principles",
+      "description": "Master REST and GraphQL API design principles to build intuitive, scalable, and maintainable APIs that delight developers. Use when designing new APIs, reviewing API specifications, or establishing API design standards.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-api-design-principles"
+      }
+    },
+    {
       "name": "app.scanbim/scanbim-mcp",
       "description": "AI Hub for AEC — 46 tools for Revit, Navisworks, ACC, XR via Autodesk Platform Services",
       "category": "development",
@@ -36,6 +148,244 @@
       "source": {
         "type": "local",
         "path": "./plugins/mcp-app.scanbim-scanbim-mcp"
+      }
+    },
+    {
+      "name": "architecture-decision-records",
+      "description": "Write and maintain Architecture Decision Records (ADRs) following best practices for technical decision documentation. Use when documenting significant technical decisions, reviewing past architectural choices, or establishing decision processes.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-architecture-decision-records"
+      }
+    },
+    {
+      "name": "architecture-patterns",
+      "description": "Implement proven backend architecture patterns including Clean Architecture, Hexagonal Architecture, and Domain-Driven Design. Use this skill when designing clean architecture for a new microservice, when refactoring a monolith to use bounded contexts, when implementing hexagonal or onion architecture patterns, or when debugging dependency cycles between application layers.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-architecture-patterns"
+      }
+    },
+    {
+      "name": "async-python-patterns",
+      "description": "Master Python asyncio, concurrent programming, and async/await patterns for high-performance applications. Use when building async APIs, concurrent systems, or I/O-bound applications requiring non-blocking operations.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-async-python-patterns"
+      }
+    },
+    {
+      "name": "attack-tree-construction",
+      "description": "Build comprehensive attack trees to visualize threat paths. Use when mapping attack scenarios, identifying defense gaps, or communicating security risks to stakeholders.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-attack-tree-construction"
+      }
+    },
+    {
+      "name": "auth-implementation-patterns",
+      "description": "Master authentication and authorization patterns including JWT, OAuth2, session management, and RBAC to build secure, scalable access control systems. Use when implementing auth systems, securing APIs, or debugging security issues.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-auth-implementation-patterns"
+      }
+    },
+    {
+      "name": "avoid-ai-writing",
+      "description": "Audit and rewrite prose so it stops reading as machine-generated. Use this skill when asked to remove AI-isms, clean up AI writing, edit a draft for AI tells, audit a README, changelog, release note, PR description, or blog post for machine-sounding prose, or make text sound less like AI. Supports a detect-only mode, a rewrite mode, and an edit-in-place mode, with optional voice and context profiles.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-avoid-ai-writing"
+      }
+    },
+    {
+      "name": "backtesting-frameworks",
+      "description": "Build robust backtesting systems for trading strategies with proper handling of look-ahead bias, survivorship bias, and transaction costs. Use when developing trading algorithms, validating strategies, or building backtesting infrastructure.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-backtesting-frameworks"
+      }
+    },
+    {
+      "name": "bash-defensive-patterns",
+      "description": "Master defensive Bash programming techniques for production-grade scripts. Use when writing robust shell scripts, CI/CD pipelines, or system utilities requiring fault tolerance and safety.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-bash-defensive-patterns"
+      }
+    },
+    {
+      "name": "basin",
+      "description": "Build and troubleshoot Cloudflare Basin analytics workflows with Basin Pipelines, Basin Catalog, and Basin SQL. Use for streaming data into R2 Iceberg tables, managing catalogs, or querying those tables; also use for requests using the former Data Platform, Pipelines, R2 Data Catalog, or R2 SQL names.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "cloudflare"
+      ],
+      "homepage": "https://github.com/cloudflare/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-basin"
+      }
+    },
+    {
+      "name": "bats-testing-patterns",
+      "description": "Master Bash Automated Testing System (Bats) for comprehensive shell script testing. Use when writing tests for shell scripts, CI/CD pipelines, or requiring test-driven development of shell utilities.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-bats-testing-patterns"
+      }
+    },
+    {
+      "name": "bazel-build-optimization",
+      "description": "Optimize Bazel builds for large-scale monorepos. Use when configuring Bazel, implementing remote execution, or optimizing build performance for enterprise codebases.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-bazel-build-optimization"
+      }
+    },
+    {
+      "name": "before-you-build",
+      "description": "Pre-build product and feature risk review for founders, product managers, and AI-assisted builders. Use this skill when the user is about to build a landing page, MVP, SaaS product, internal tool, agent workflow, or major feature and needs to check demand, positioning, monetization, retention, trust, distribution, and adoption risk before implementation starts.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-before-you-build"
+      }
+    },
+    {
+      "name": "billing-automation",
+      "description": "Build automated billing systems for recurring payments, invoicing, subscription lifecycle, and dunning management. Use when implementing subscription billing, automating invoicing, or managing recurring payment systems.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-billing-automation"
+      }
+    },
+    {
+      "name": "binary-analysis-patterns",
+      "description": "Master binary analysis patterns including disassembly, decompilation, control flow analysis, and code pattern recognition. Use when analyzing executables, understanding compiled code, or performing static analysis on binaries.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-binary-analysis-patterns"
+      }
+    },
+    {
+      "name": "block-no-verify-hook",
+      "description": "Configure a PreToolUse hook to prevent AI agents from skipping git pre-commit hooks with --no-verify and other bypass flags. Use when setting up Claude Code projects that enforce commit quality gates.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-block-no-verify-hook"
+      }
+    },
+    {
+      "name": "blog-writing-guide",
+      "description": "Write, review, and improve blog posts for the Sentry engineering blog following Sentry's specific writing standards, voice, and quality bar. Use this skill whenever someone asks to write a blog post, draft a technical article, review blog content, improve a draft, write a product announcement, create an engineering deep-dive, or produce any written content destined for the Sentry blog or developer audience. Also trigger when the user mentions \"blog post,\" \"blog draft,\" \"write-up,\" \"announcement post,\" \"engineering post,\" \"deep dive,\" \"postmortem,\" or asks for help with technical writing for Sentry. Even if the user just says \"help me write about [feature/topic]\" — if it sounds like it could become a Sentry blog post, use this skill.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "getsentry"
+      ],
+      "homepage": "https://github.com/getsentry/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-blog-writing-guide"
+      }
+    },
+    {
+      "name": "brainstorming",
+      "description": "You MUST use this before any creative work - creating features, building components, adding functionality, modifying behavior, or planning anything new, in software or out of it (a talk, a business, a renovation).",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "superpowers"
+      ],
+      "homepage": "https://github.com/obra/superpowers",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-brainstorming"
       }
     },
     {
@@ -53,6 +403,34 @@
       }
     },
     {
+      "name": "brand-landingpage",
+      "description": ">",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-brand-landingpage"
+      }
+    },
+    {
+      "name": "browse-local-sentry",
+      "description": "Connects an agent's browser to a local Sentry dev server (dev-ui on *.dev.getsentry.net or the full devserver).",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "getsentry"
+      ],
+      "homepage": "https://github.com/getsentry/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-browse-local-sentry"
+      }
+    },
+    {
       "name": "canvas-design",
       "description": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying existing artists' work to avoid copyright violations.",
       "category": "productivity",
@@ -64,6 +442,174 @@
       "source": {
         "type": "local",
         "path": "./plugins/skill-canvas-design"
+      }
+    },
+    {
+      "name": "cf-cli",
+      "description": "Cloudflare's official cf CLI (beta) for the public Cloudflare API and Workers projects. Use for finding and running Cloudflare commands from the terminal — sign-in and profiles, cf cli search, cf schema, cf deploy/dev/build, resource commands for DNS, zones, D1, KV, and R2 — and for choosing between cf and Wrangler in a project.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "cloudflare"
+      ],
+      "homepage": "https://github.com/cloudflare/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-cf-cli"
+      }
+    },
+    {
+      "name": "changelog-automation",
+      "description": "Automate changelog generation from commits, PRs, and releases following Keep a Changelog format. Use when setting up release workflows, generating release notes, or standardizing commit conventions.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-changelog-automation"
+      }
+    },
+    {
+      "name": "checkpoint-promotion",
+      "description": "Gate fine-tuned checkpoints with drift budgets, paired comparison, and forgetting checks before promotion. Use after a training run produces a checkpoint, when deciding whether a tuned model ships, or when a promoted model needs re-gating against updated goldens.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-checkpoint-promotion"
+      }
+    },
+    {
+      "name": "claude-settings-audit",
+      "description": "Analyze a repository to generate recommended Claude Code settings.json permissions. Use when setting up a new project, auditing existing settings, or determining which read-only bash commands to allow. Detects tech stack, build tools, and monorepo structure.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "getsentry"
+      ],
+      "homepage": "https://github.com/getsentry/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-claude-settings-audit"
+      }
+    },
+    {
+      "name": "cloudflare",
+      "description": "Discover and choose Cloudflare products for apps, APIs, AI agents, storage, networking, and security. Use for architecture and product selection, including when the user describes a need without naming a Cloudflare product; then find the relevant skill or documentation. Also use when a Cloudflare-proxied site shows a Cloudflare error page, a `52x` status, a 1xxx error code, or a Cloudflare `403`, to decide whether to fix Cloudflare configuration or the origin.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "cloudflare"
+      ],
+      "homepage": "https://github.com/cloudflare/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-cloudflare"
+      }
+    },
+    {
+      "name": "cloudflare-app-bootstrap",
+      "description": "Get a Cloudflare Workers app to a working local request by connecting its bindings, secrets, and initial data, then verifying real application behavior. Use for app setup or onboarding after the project exists; use frameworks-on-cloudflare or cf-cli to create or configure the project, and wrangler or cf-cli for isolated commands.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "cloudflare"
+      ],
+      "homepage": "https://github.com/cloudflare/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-cloudflare-app-bootstrap"
+      }
+    },
+    {
+      "name": "cloudflare-email-service",
+      "description": "Implement or troubleshoot Cloudflare Email Sending and Email Routing integrations and their delivery configuration.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "cloudflare"
+      ],
+      "homepage": "https://github.com/cloudflare/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-cloudflare-email-service"
+      }
+    },
+    {
+      "name": "cloudflare-one",
+      "description": "Design, configure, troubleshoot, or review Cloudflare One Zero Trust and SASE deployments. Use cloudflare-one-migrations for migration planning from other vendors. Also use when an agent, script, crawler, or other non-browser client needs to reach a webpage or API protected by Cloudflare Access.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "cloudflare"
+      ],
+      "homepage": "https://github.com/cloudflare/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-cloudflare-one"
+      }
+    },
+    {
+      "name": "cloudflare-one-migrations",
+      "description": "Assess and plan migrations from existing VPN, SWG, or SASE platforms to Cloudflare One, including policy mapping, parity gaps, and rollout.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "cloudflare"
+      ],
+      "homepage": "https://github.com/cloudflare/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-cloudflare-one-migrations"
+      }
+    },
+    {
+      "name": "code-review",
+      "description": "Perform code reviews following Sentry engineering practices. Use when reviewing pull requests, examining code changes, or providing feedback on code quality. Covers security, performance, testing, and design review.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "getsentry"
+      ],
+      "homepage": "https://github.com/getsentry/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-code-review"
+      }
+    },
+    {
+      "name": "code-review-excellence",
+      "description": "Master effective code review practices to provide constructive feedback, catch bugs early, and foster knowledge sharing while maintaining team morale. Use when reviewing pull requests, establishing review standards, or mentoring developers.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-code-review-excellence"
+      }
+    },
+    {
+      "name": "code-simplifier",
+      "description": "Simplifies and refines code for clarity, consistency, and maintainability while preserving all functionality. Use when asked to \"simplify code\", \"clean up code\", \"refactor for clarity\", \"improve readability\", or review recently modified code for elegance. Focuses on project-specific best practices.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "getsentry"
+      ],
+      "homepage": "https://github.com/getsentry/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-code-simplifier"
       }
     },
     {
@@ -105,6 +651,258 @@
       }
     },
     {
+      "name": "commit",
+      "description": "Use for every request to commit changes or draft a commit message. Creates Sentry-style conventional commits with issue references.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "getsentry"
+      ],
+      "homepage": "https://github.com/getsentry/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-commit"
+      }
+    },
+    {
+      "name": "competitive-landscape",
+      "description": "Analyze competition, identify differentiation opportunities, and develop winning market positioning strategies using Porter's Five Forces, Blue Ocean Strategy, and positioning maps. Use this skill when evaluating competitors, assessing market positioning, identifying sustainable competitive advantages, or preparing competitive strategy analysis for a startup or investor pitch.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-competitive-landscape"
+      }
+    },
+    {
+      "name": "connectivity-triage",
+      "description": "Use this skill when debugging active macOS connectivity failures, when an API or MCP service times out or disconnects, when DNS resolution is failing or inconsistent, or when video calls or other interactive traffic show packet loss or latency. Isolate local-LAN, DNS, upstream-path, and remote-service/application fault domains with built-in, non-destructive tools.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-connectivity-triage"
+      }
+    },
+    {
+      "name": "context-driven-development",
+      "description": ">-",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-context-driven-development"
+      }
+    },
+    {
+      "name": "cost-optimization",
+      "description": "Optimize cloud costs across AWS, Azure, GCP, and OCI through resource rightsizing, tagging strategies, reserved instances, and spending analysis. Use when reducing cloud expenses, analyzing infrastructure costs, or implementing cost governance policies.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-cost-optimization"
+      }
+    },
+    {
+      "name": "cqrs-implementation",
+      "description": "Implement Command Query Responsibility Segregation for scalable architectures. Use when separating read and write models, optimizing query performance, or building event-sourced systems.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-cqrs-implementation"
+      }
+    },
+    {
+      "name": "create-branch",
+      "description": "Create a git branch following Sentry naming conventions. Use when asked to \"create a branch\", \"new branch\", \"start a branch\", \"make a branch\", \"switch to a new branch\", or when starting new work on the default branch.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "getsentry"
+      ],
+      "homepage": "https://github.com/getsentry/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-create-branch"
+      }
+    },
+    {
+      "name": "data-quality-frameworks",
+      "description": "Implement data quality validation with Great Expectations, dbt tests, and data contracts. Use when building data quality pipelines, implementing validation rules, or establishing data contracts.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-data-quality-frameworks"
+      }
+    },
+    {
+      "name": "data-storytelling",
+      "description": "Transform data into compelling narratives using visualization, context, and persuasive structure. Use when presenting analytics to stakeholders, creating data reports, or building executive presentations.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-data-storytelling"
+      }
+    },
+    {
+      "name": "database-migration",
+      "description": "Execute database migrations across ORMs and platforms with zero-downtime strategies, data transformation, and rollback procedures. Use when migrating databases, changing schemas, performing data transformations, or implementing zero-downtime deployment strategies.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-database-migration"
+      }
+    },
+    {
+      "name": "dataset-curation",
+      "description": "Prepare, format, and validate datasets for supervised fine-tuning and preference training. Use when converting raw data into training format, applying chat templates, configuring sequence packing, generating synthetic training data, or writing a dataset card before a run.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-dataset-curation"
+      }
+    },
+    {
+      "name": "dbt-transformation-patterns",
+      "description": "Master dbt (data build tool) for analytics engineering with model organization, testing, documentation, and incremental strategies. Use when building data transformations, creating data models, or implementing analytics engineering best practices.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-dbt-transformation-patterns"
+      }
+    },
+    {
+      "name": "debugging-strategies",
+      "description": "Master systematic debugging techniques, profiling tools, and root cause analysis to efficiently track down bugs across any codebase or technology stack. Use when investigating bugs, performance issues, or unexpected behavior.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-debugging-strategies"
+      }
+    },
+    {
+      "name": "defi-protocol-templates",
+      "description": "Implement DeFi protocols with production-ready templates for staking, AMMs, governance, and flash loans. Use when building decentralized finance applications or smart contract protocols.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-defi-protocol-templates"
+      }
+    },
+    {
+      "name": "dependency-upgrade",
+      "description": "Manage major dependency version upgrades with compatibility analysis, staged rollout, and comprehensive testing. Use when upgrading framework versions, updating major dependencies, or managing breaking changes in libraries.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-dependency-upgrade"
+      }
+    },
+    {
+      "name": "deployment-pipeline-design",
+      "description": "Design multi-stage CI/CD pipelines with approval gates, security checks, and deployment orchestration. Use this skill when designing zero-downtime deployment pipelines, implementing canary rollout strategies, setting up multi-environment promotion workflows, or debugging failed deployment gates in CI/CD.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-deployment-pipeline-design"
+      }
+    },
+    {
+      "name": "design-system-patterns",
+      "description": "Build scalable design systems with design tokens, theming infrastructure, and component architecture patterns. Use when creating design tokens, implementing theme switching, building component libraries, or establishing design system foundations.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-design-system-patterns"
+      }
+    },
+    {
+      "name": "diagnosing-superpowers",
+      "description": "Use when a superpowers session went wrong and your human partner wants to know why — repeated work, ignored plans, stumbles, poor results, a skill that didn't fire, \"it took too long\", \"why is it so expensive\", \"what is it doing\" — or wants to build a bug report for the superpowers maintainers, for the current session or a past one identified by id or path, on any harness.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "superpowers"
+      ],
+      "homepage": "https://github.com/obra/superpowers",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-diagnosing-superpowers"
+      }
+    },
+    {
       "name": "discernment-nudge",
       "description": ">",
       "category": "productivity",
@@ -116,6 +914,62 @@
       "source": {
         "type": "local",
         "path": "./plugins/skill-discernment-nudge"
+      }
+    },
+    {
+      "name": "dispatching-parallel-agents",
+      "description": "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "superpowers"
+      ],
+      "homepage": "https://github.com/obra/superpowers",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-dispatching-parallel-agents"
+      }
+    },
+    {
+      "name": "distributed-tracing",
+      "description": "Implement distributed tracing with Jaeger and Tempo to track requests across microservices and identify performance bottlenecks. Use when debugging microservices, analyzing request flows, or implementing observability for distributed systems.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-distributed-tracing"
+      }
+    },
+    {
+      "name": "django-access-review",
+      "description": "Django access control and IDOR security review. Use when reviewing Django views, DRF viewsets, ORM queries, or any Python/Django code handling user authorization. Trigger keywords: \"IDOR\", \"access control\", \"authorization\", \"Django permissions\", \"object permissions\", \"tenant isolation\", \"broken access\".",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "getsentry"
+      ],
+      "homepage": "https://github.com/getsentry/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-django-access-review"
+      }
+    },
+    {
+      "name": "django-perf-review",
+      "description": "Django performance code review. Use when asked to \"review Django performance\", \"find N+1 queries\", \"optimize Django\", \"check queryset performance\", \"database performance\", \"Django ORM issues\", or audit Django code for performance problems.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "getsentry"
+      ],
+      "homepage": "https://github.com/getsentry/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-django-perf-review"
       }
     },
     {
@@ -133,6 +987,20 @@
       }
     },
     {
+      "name": "document-api-endpoint",
+      "description": "Document and type a Sentry API endpoint. Write or fix @extend_schema decorators, specify response TypedDicts, type request parameters, correct type drift between the declared schema and the runtime response, and validate the generated spec. Use when asked to \"document an endpoint\", \"add OpenAPI docs\", \"add/fix @extend_schema\", \"type an endpoint response\", \"fix the response type\", \"fix type drift\", \"reuse a response type\", \"split an overloaded endpoint\", \"specify the response schema\", \"add a TypedDict response\", \"migrate a legacy api-docs path\", \"fix a parameter type\", or \"make an endpoint public\" / \"promote an endpoint\" (promotion is one section here).",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "getsentry"
+      ],
+      "homepage": "https://github.com/getsentry/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-document-api-endpoint"
+      }
+    },
+    {
       "name": "docx",
       "description": "Use this skill whenever the user wants to create, read, edit, or manipulate Word documents (.docx files) or Word templates (.dotx files). Triggers include: any mention of 'Word doc', 'word document', '.docx', '.dotx', or requests to produce professional documents with formatting like tables of contents, headings, page numbers, or letterheads. Also use when extracting or reorganizing content from .docx or .dotx files, inserting or replacing images in documents, performing find-and-replace in Word files, working with tracked changes or comments, or converting content into a polished Word document. If the user asks for a 'report', 'memo', 'letter', 'template', or similar deliverable as a Word or .docx file, use this skill. Do NOT use for PDFs, spreadsheets, Google Docs, or general coding tasks unrelated to document generation.",
       "category": "productivity",
@@ -144,6 +1012,90 @@
       "source": {
         "type": "local",
         "path": "./plugins/skill-docx"
+      }
+    },
+    {
+      "name": "dotnet-backend-patterns",
+      "description": "Master C#/.NET backend development patterns for building robust APIs, MCP servers, and enterprise applications. Covers async/await, dependency injection, Entity Framework Core, Dapper, configuration, caching, and testing with xUnit. Use when developing .NET backends, reviewing C# code, or designing API architectures.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-dotnet-backend-patterns"
+      }
+    },
+    {
+      "name": "durable-objects",
+      "description": "Build, debug, or review Cloudflare Durable Objects code for persistent state and coordination.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "cloudflare"
+      ],
+      "homepage": "https://github.com/cloudflare/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-durable-objects"
+      }
+    },
+    {
+      "name": "e2e-testing-patterns",
+      "description": "Master end-to-end testing with Playwright and Cypress to build reliable test suites that catch bugs, improve confidence, and enable fast deployment. Use when implementing E2E tests, debugging flaky tests, or establishing testing standards.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-e2e-testing-patterns"
+      }
+    },
+    {
+      "name": "embedding-strategies",
+      "description": "Select and optimize embedding models for semantic search and RAG applications. Use when choosing embedding models, implementing chunking strategies, or optimizing embedding quality for specific domains.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-embedding-strategies"
+      }
+    },
+    {
+      "name": "employment-contract-templates",
+      "description": "Create employment contracts, offer letters, and HR policy documents following legal best practices. Use when drafting employment agreements, creating HR policies, or standardizing employment documentation.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-employment-contract-templates"
+      }
+    },
+    {
+      "name": "error-handling-patterns",
+      "description": "Master error handling patterns across languages including exceptions, Result types, error propagation, and graceful degradation to build resilient applications. Use when implementing error handling, designing APIs, or improving application reliability.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-error-handling-patterns"
       }
     },
     {
@@ -747,6 +1699,160 @@
       }
     },
     {
+      "name": "eval-harness-first",
+      "description": "Build the evaluation harness that gates every fine-tuning run — golden sets, per-failure-mode graders, judge calibration, and base-model baselines. Use when starting a fine-tuning effort, when converting traces into an eval set, or when calibrating a judge against human labels.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-eval-harness-first"
+      }
+    },
+    {
+      "name": "evaluation-methodology",
+      "description": "PluginEval quality methodology, covering dimensions, rubrics, and scoring formulas. Use this skill when understanding how plugin quality is measured, when interpreting a low score on a specific dimension, when deciding how to improve a skill's triggering accuracy or orchestration fitness, when setting score thresholds for your marketplace, or when explaining quality badges to external partners like Neon.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-evaluation-methodology"
+      }
+    },
+    {
+      "name": "event-store-design",
+      "description": "Design and implement event stores for event-sourced systems. Use when building event sourcing infrastructure, choosing event store technologies, or implementing event persistence patterns.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-event-store-design"
+      }
+    },
+    {
+      "name": "executing-plans",
+      "description": "Use when executing an implementation plan in the current session as the implementer yourself — your human partner chose inline execution, or no subagent tool is available",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "superpowers"
+      ],
+      "homepage": "https://github.com/obra/superpowers",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-executing-plans"
+      }
+    },
+    {
+      "name": "fastapi-templates",
+      "description": "Create production-ready FastAPI projects with async patterns, dependency injection, and comprehensive error handling. Use when building new FastAPI applications or setting up backend API projects.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-fastapi-templates"
+      }
+    },
+    {
+      "name": "file-conversion",
+      "description": "Use when the user needs a local file converted between common image, audio, video, document, or data formats. Select installed tools, preserve originals, and verify the output.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-file-conversion"
+      }
+    },
+    {
+      "name": "find-bugs",
+      "description": "Find bugs, security vulnerabilities, and code quality issues in local branch changes. Use when asked to review changes, find bugs, security review, or audit code on the current branch.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "getsentry"
+      ],
+      "homepage": "https://github.com/getsentry/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-find-bugs"
+      }
+    },
+    {
+      "name": "find-skills",
+      "description": "Helps users discover and install agent skills when they ask questions like \"how do I do X\", \"find a skill for X\", \"is there a skill that can...\", or express interest in extending capabilities. This skill should be used when the user is looking for functionality that might exist as an installable skill.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "vercel-labs"
+      ],
+      "homepage": "https://github.com/vercel-labs/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-find-skills"
+      }
+    },
+    {
+      "name": "finetuning-method-selection",
+      "description": "Decide whether to fine-tune at all, and route to the right method (SFT, DPO/ORPO/KTO, GRPO/RLVR, continued pretraining) and base model. Use when starting any fine-tuning effort, when unsure whether RAG or prompting would suffice, or when choosing between preference-optimization and reinforcement methods.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-finetuning-method-selection"
+      }
+    },
+    {
+      "name": "finishing-a-development-branch",
+      "description": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "superpowers"
+      ],
+      "homepage": "https://github.com/obra/superpowers",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-finishing-a-development-branch"
+      }
+    },
+    {
+      "name": "frameworks-on-cloudflare",
+      "description": "Build, migrate, and deploy web-framework applications on Cloudflare Workers. Use when a framework project such as Astro, SvelteKit, React Router, TanStack Start, Nuxt, Hono, or a React or Vue SPA targets Cloudflare, or when a framework repository contains Workers deployment configuration.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "cloudflare"
+      ],
+      "homepage": "https://github.com/cloudflare/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-frameworks-on-cloudflare"
+      }
+    },
+    {
       "name": "frontend-design",
       "description": "Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. Helps with aesthetic direction, typography, and making choices that don't read as templated defaults.",
       "category": "productivity",
@@ -758,6 +1864,286 @@
       "source": {
         "type": "local",
         "path": "./plugins/skill-frontend-design"
+      }
+    },
+    {
+      "name": "gateway-workers",
+      "description": "Build, debug, or review Cloudflare Workers invoked by the Forward action in Gateway HTTP policies, including the GatewayMiddleware entrypoint, Gateway types, context, and continuation.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "cloudflare"
+      ],
+      "homepage": "https://github.com/cloudflare/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-gateway-workers"
+      }
+    },
+    {
+      "name": "gdpr-data-handling",
+      "description": "Implement GDPR-compliant data handling with consent management, data subject rights, and privacy by design. Use when building systems that process EU personal data, implementing privacy controls, or conducting GDPR compliance reviews.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-gdpr-data-handling"
+      }
+    },
+    {
+      "name": "gh-review-requests",
+      "description": "Fetch unread GitHub notifications for open PRs where review is requested from a specified team or opened by a team member. Use when asked to \"find PRs I need to review\", \"show my review requests\", \"what needs my review\", \"fetch GitHub review requests\", or \"check team review queue\".",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "getsentry"
+      ],
+      "homepage": "https://github.com/getsentry/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-gh-review-requests"
+      }
+    },
+    {
+      "name": "gha-security-review",
+      "description": "GitHub Actions security review for workflow exploitation vulnerabilities. Use when asked to \"review GitHub Actions\", \"audit workflows\", \"check CI security\", \"GHA security\", \"workflow security review\", or review .github/workflows/ for pwn requests, expression injection, credential theft, and supply chain attacks. Exploitation-focused with concrete PoC scenarios.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "getsentry"
+      ],
+      "homepage": "https://github.com/getsentry/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-gha-security-review"
+      }
+    },
+    {
+      "name": "git-advanced-workflows",
+      "description": "Master advanced Git workflows including rebasing, cherry-picking, bisect, worktrees, and reflog to maintain clean history and recover from any situation. Use when managing complex Git histories, collaborating on feature branches, or troubleshooting repository issues.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-git-advanced-workflows"
+      }
+    },
+    {
+      "name": "github-actions-templates",
+      "description": "Create production-ready GitHub Actions workflows for automated testing, building, and deploying applications. Use when setting up CI/CD with GitHub Actions, automating development workflows, or creating reusable workflow templates.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-github-actions-templates"
+      }
+    },
+    {
+      "name": "gitlab-ci-patterns",
+      "description": "Build GitLab CI/CD pipelines with multi-stage workflows, caching, and distributed runners for scalable automation. Use when implementing GitLab CI/CD, optimizing pipeline performance, or setting up automated testing and deployment.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-gitlab-ci-patterns"
+      }
+    },
+    {
+      "name": "gitops-workflow",
+      "description": "Implement GitOps workflows with ArgoCD and Flux for automated, declarative Kubernetes deployments with continuous reconciliation. Use when implementing GitOps practices, automating Kubernetes deployments, or setting up declarative infrastructure management.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-gitops-workflow"
+      }
+    },
+    {
+      "name": "go-concurrency-patterns",
+      "description": "Master Go concurrency with goroutines, channels, sync primitives, and context. Use when building concurrent Go applications, implementing worker pools, or debugging race conditions.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-go-concurrency-patterns"
+      }
+    },
+    {
+      "name": "godot-gdscript-patterns",
+      "description": "Master Godot 4 GDScript patterns including signals, scenes, state machines, and optimization. Use when building Godot games, implementing game systems, or learning GDScript best practices.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-godot-gdscript-patterns"
+      }
+    },
+    {
+      "name": "grafana-dashboards",
+      "description": "Create and manage production Grafana dashboards for real-time visualization of system and application metrics. Use when building monitoring dashboards, visualizing metrics, or creating operational observability interfaces.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-grafana-dashboards"
+      }
+    },
+    {
+      "name": "grounded-vault",
+      "description": "Use when maintaining a durable Markdown knowledge store that agents compile from sources, when every number or quote in a wiki page must trace back to an immutable source, or when compiled pages need cheap drift detection against the code they describe. Teaches the raw/wiki/archive layout, per-claim provenance links, and git fingerprints for zero-token staleness checks.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-grounded-vault"
+      }
+    },
+    {
+      "name": "grpo-rlvr-training",
+      "description": "Train reasoning and verifiable-task behavior with GRPO and reinforcement learning from verifiable rewards (RLVR). Use when task success is algorithmically checkable (math, code, tool calls, structured output), when designing GRPO reward functions, or when a GRPO run diverges or reward-hacks.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-grpo-rlvr-training"
+      }
+    },
+    {
+      "name": "hads",
+      "description": "Use when writing technical documentation that needs to be readable by both humans and AI models, converting existing docs to HADS format, validating a HADS document, or optimizing documentation for token-efficient AI consumption.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-hads"
+      }
+    },
+    {
+      "name": "helm-chart-scaffolding",
+      "description": "Design, organize, and manage Helm charts for templating and packaging Kubernetes applications with reusable configurations. Use when creating Helm charts, packaging Kubernetes applications, or implementing templated deployments.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-helm-chart-scaffolding"
+      }
+    },
+    {
+      "name": "hermes-tweet",
+      "description": ">",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-hermes-tweet"
+      }
+    },
+    {
+      "name": "hybrid-cloud-networking",
+      "description": "Configure secure, high-performance connectivity between on-premises infrastructure and cloud platforms using VPN and dedicated connections. Use when building hybrid cloud architectures, connecting data centers to cloud, or implementing secure cross-premises networking.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-hybrid-cloud-networking"
+      }
+    },
+    {
+      "name": "hybrid-search-implementation",
+      "description": "Combine vector and keyword search for improved retrieval. Use when implementing RAG systems, building search engines, or when neither approach alone provides sufficient recall.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-hybrid-search-implementation"
+      }
+    },
+    {
+      "name": "incident-runbook-templates",
+      "description": "Create structured incident response runbooks with step-by-step procedures, escalation paths, and recovery actions. Use this skill when building a service outage runbook for a payment processing system; creating database incident procedures covering connection pool exhaustion, replication lag, and disk space alerts; onboarding new on-call engineers who need step-by-step recovery guides written for a 3 AM brain; or standardizing escalation matrices across multiple engineering teams.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-incident-runbook-templates"
+      }
+    },
+    {
+      "name": "interaction-design",
+      "description": "Design and implement microinteractions, motion design, transitions, and user feedback patterns. Use when adding polish to UI interactions, implementing loading states, or creating delightful user experiences.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-interaction-design"
       }
     },
     {
@@ -1577,6 +2963,118 @@
       }
     },
     {
+      "name": "istio-traffic-management",
+      "description": "Configure Istio traffic management including routing, load balancing, circuit breakers, and canary deployments. Use when implementing service mesh traffic policies, progressive delivery, or resilience patterns.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-istio-traffic-management"
+      }
+    },
+    {
+      "name": "iterate-pr",
+      "description": "Iterate on a PR until actionable CI passes and high/medium review feedback is addressed. Use for PR CI failures, review feedback, or green-check loops; do not wait for human approval, draft status, or merge gates.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "getsentry"
+      ],
+      "homepage": "https://github.com/getsentry/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-iterate-pr"
+      }
+    },
+    {
+      "name": "javascript-testing-patterns",
+      "description": "Implement comprehensive testing strategies using Jest, Vitest, and Testing Library for unit tests, integration tests, and end-to-end testing with mocking, fixtures, and test-driven development. Use when writing JavaScript/TypeScript tests, setting up test infrastructure, or implementing TDD/BDD workflows.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-javascript-testing-patterns"
+      }
+    },
+    {
+      "name": "k2",
+      "description": "Build and troubleshoot Cloudflare K2 or K2 Streams durable logs. Use for stream setup, producing from Workers or HTTP, configuring retention and inputs, and consuming through subscriptions.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "cloudflare"
+      ],
+      "homepage": "https://github.com/cloudflare/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-k2"
+      }
+    },
+    {
+      "name": "k8s-manifest-generator",
+      "description": "Create production-ready Kubernetes manifests for Deployments, Services, ConfigMaps, and Secrets following best practices and security standards. Use when generating Kubernetes YAML manifests, creating K8s resources, or implementing production-grade Kubernetes configurations.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-k8s-manifest-generator"
+      }
+    },
+    {
+      "name": "k8s-security-policies",
+      "description": "Implement Kubernetes security policies including NetworkPolicy, PodSecurityPolicy, and RBAC for production-grade security. Use when securing Kubernetes clusters, implementing network isolation, or enforcing pod security standards.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-k8s-security-policies"
+      }
+    },
+    {
+      "name": "kpi-dashboard-design",
+      "description": "Design effective KPI dashboards with metrics selection, visualization best practices, and real-time monitoring patterns. Use this skill when building an executive SaaS metrics dashboard tracking MRR, churn, and LTV/CAC ratios; designing an operations center with live service health and request throughput; creating a cohort retention analysis view for a product team; or debugging a dashboard where metrics contradict each other due to inconsistent calculation methodology.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-kpi-dashboard-design"
+      }
+    },
+    {
+      "name": "langchain-architecture",
+      "description": "Design LLM applications using LangChain 1.x and LangGraph for agents, memory, and tool integration. Use when building LangChain applications, implementing AI agents, or creating complex LLM workflows.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-langchain-architecture"
+      }
+    },
+    {
       "name": "link.aotrust/notary",
       "description": "Cryptographic proof of existence for AI agents. x402 on Base or Solana, NEAR anchored. Free tier.",
       "category": "development",
@@ -1584,6 +3082,62 @@
       "source": {
         "type": "local",
         "path": "./plugins/mcp-link.aotrust-notary"
+      }
+    },
+    {
+      "name": "linkerd-patterns",
+      "description": "Implement Linkerd service mesh patterns for lightweight, security-focused service mesh deployments. Use when setting up Linkerd, configuring traffic policies, or implementing zero-trust networking with minimal overhead.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-linkerd-patterns"
+      }
+    },
+    {
+      "name": "llm-evaluation",
+      "description": "Implement comprehensive evaluation strategies for LLM applications using automated metrics, human feedback, and benchmarking. Use when testing LLM performance, measuring AI application quality, or establishing evaluation frameworks.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-llm-evaluation"
+      }
+    },
+    {
+      "name": "lora-qlora-recipes",
+      "description": "Configure LoRA and QLoRA supervised fine-tuning with current best-practice hyperparameters. Use when writing or reviewing a LoRA/QLoRA training configuration, choosing rank/alpha/target modules, or deciding between LoRA, QLoRA, and full fine-tuning.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-lora-qlora-recipes"
+      }
+    },
+    {
+      "name": "market-sizing-analysis",
+      "description": "Calculate TAM/SAM/SOM for market opportunities using top-down, bottom-up, and value theory methodologies. Use this skill when sizing markets, estimating addressable revenue, validating market opportunity for a new venture, or building investor-ready market analysis for a startup pitch or business plan.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-market-sizing-analysis"
       }
     },
     {
@@ -1601,6 +3155,314 @@
       }
     },
     {
+      "name": "memory-forensics",
+      "description": "Master memory forensics techniques including memory acquisition, process analysis, and artifact extraction using Volatility and related tools. Use when analyzing memory dumps, investigating incidents, or performing malware analysis from RAM captures.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-memory-forensics"
+      }
+    },
+    {
+      "name": "memory-safety-patterns",
+      "description": "Implement memory-safe programming with RAII, ownership, smart pointers, and resource management across Rust, C++, and C. Use when writing safe systems code, managing resources, or preventing memory bugs.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-memory-safety-patterns"
+      }
+    },
+    {
+      "name": "microservices-patterns",
+      "description": "Design microservices architectures with service boundaries, event-driven communication, and resilience patterns. Use when building distributed systems, decomposing monoliths, or implementing microservices.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-microservices-patterns"
+      }
+    },
+    {
+      "name": "ml-pipeline-workflow",
+      "description": "Build end-to-end MLOps pipelines from data preparation through model training, validation, and production deployment. Use when creating ML pipelines, implementing MLOps practices, or automating model training and deployment workflows.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-ml-pipeline-workflow"
+      }
+    },
+    {
+      "name": "mobile-android-design",
+      "description": "Master Material Design 3 and Jetpack Compose patterns for building native Android apps. Use when designing Android interfaces, implementing Compose UI, or following Google's Material Design guidelines.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-mobile-android-design"
+      }
+    },
+    {
+      "name": "mobile-ios-design",
+      "description": "Master iOS Human Interface Guidelines and SwiftUI patterns for building native iOS apps. Use when designing iOS interfaces, implementing SwiftUI views, or ensuring apps follow Apple's design principles.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-mobile-ios-design"
+      }
+    },
+    {
+      "name": "modern-javascript-patterns",
+      "description": "Master ES6+ features including async/await, destructuring, spread operators, arrow functions, promises, modules, iterators, generators, and functional programming patterns for writing clean, efficient JavaScript code. Use when refactoring legacy code, implementing modern patterns, or optimizing JavaScript applications.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-modern-javascript-patterns"
+      }
+    },
+    {
+      "name": "monorepo-management",
+      "description": "Master monorepo management with Turborepo, Nx, and pnpm workspaces to build efficient, scalable multi-package repositories with optimized builds and dependency management. Use when setting up monorepos, optimizing builds, or managing shared dependencies.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-monorepo-management"
+      }
+    },
+    {
+      "name": "mtls-configuration",
+      "description": "Configure mutual TLS (mTLS) for zero-trust service-to-service communication. Use when implementing zero-trust networking, certificate management, or securing internal service communication.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-mtls-configuration"
+      }
+    },
+    {
+      "name": "multi-cloud-architecture",
+      "description": "Design multi-cloud architectures using a decision framework to select and integrate services across AWS, Azure, GCP, and OCI. Use when building multi-cloud systems, avoiding vendor lock-in, or leveraging best-of-breed services from multiple providers.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-multi-cloud-architecture"
+      }
+    },
+    {
+      "name": "multi-reviewer-patterns",
+      "description": "Coordinate parallel code reviews across multiple quality dimensions with finding deduplication, severity calibration, and consolidated reporting. Use this skill when organizing multi-reviewer code reviews, calibrating finding severity, or consolidating review results.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-multi-reviewer-patterns"
+      }
+    },
+    {
+      "name": "nextjs-app-router-patterns",
+      "description": "Master Next.js 14+ App Router with Server Components, streaming, parallel routes, and advanced data fetching. Use when building Next.js applications, implementing SSR/SSG, or optimizing React Server Components.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-nextjs-app-router-patterns"
+      }
+    },
+    {
+      "name": "nextjs-on-cloudflare",
+      "description": "Build, migrate, and deploy Next.js apps on Cloudflare Workers with vinext. Use when starting a Next.js project on Cloudflare, moving an existing app to Workers, choosing between vinext and OpenNext, or setting up vinext for Workers. For setup, migration, or deployment, install vinext's upstream skills with `npx skills add cloudflare/vinext` if missing, then read and follow the applicable skill and docs.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "cloudflare"
+      ],
+      "homepage": "https://github.com/cloudflare/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-nextjs-on-cloudflare"
+      }
+    },
+    {
+      "name": "nft-standards",
+      "description": "Implement NFT standards (ERC-721, ERC-1155) with proper metadata handling, minting strategies, and marketplace integration. Use when creating NFT contracts, building NFT marketplaces, or implementing digital asset systems.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-nft-standards"
+      }
+    },
+    {
+      "name": "nodejs-backend-patterns",
+      "description": "Build production-ready Node.js backend services with Express/Fastify, implementing middleware patterns, error handling, authentication, database integration, and API design best practices. Use when creating Node.js servers, REST APIs, GraphQL backends, or microservices architectures.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-nodejs-backend-patterns"
+      }
+    },
+    {
+      "name": "nx-workspace-patterns",
+      "description": "Configure and optimize Nx monorepo workspaces. Use when setting up Nx, configuring project boundaries, optimizing build caching, or implementing affected commands.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-nx-workspace-patterns"
+      }
+    },
+    {
+      "name": "on-call-handoff-patterns",
+      "description": "Master on-call shift handoffs with context transfer, escalation procedures, and documentation. Use this skill when transitioning on-call responsibilities between engineers and ensuring the incoming responder has full situational awareness, when writing a shift summary that captures active incidents, ongoing investigations, and recent changes, when handing off mid-incident so a fresh engineer can take over the incident commander role without losing context, when onboarding a new engineer to the on-call rotation for the first time, or when auditing and improving the quality of existing handoff processes across teams.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-on-call-handoff-patterns"
+      }
+    },
+    {
+      "name": "openapi-spec-generation",
+      "description": "Generate and maintain OpenAPI 3.1 specifications from code, design-first specs, and validation patterns. Use when creating API documentation, generating SDKs, or ensuring API contract compliance.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-openapi-spec-generation"
+      }
+    },
+    {
+      "name": "parallel-debugging",
+      "description": "Debug complex issues using competing hypotheses with parallel investigation, evidence collection, and root cause arbitration. Use this skill when debugging bugs with multiple potential causes, performing root cause analysis, or organizing parallel investigation workflows.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-parallel-debugging"
+      }
+    },
+    {
+      "name": "parallel-feature-development",
+      "description": "Coordinate parallel feature development with file ownership strategies, conflict avoidance rules, and integration patterns for multi-agent implementation. Use this skill when decomposing a large feature into independent work streams, when two or more agents need to implement different layers of the same system simultaneously, when establishing file ownership to prevent merge conflicts in a shared codebase, when designing interface contracts so parallel implementers can build against each other's APIs before they are ready, or when deciding whether to use vertical slices versus horizontal layers for a full-stack feature.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-parallel-feature-development"
+      }
+    },
+    {
+      "name": "paypal-integration",
+      "description": "Integrate PayPal payment processing with support for express checkout, subscriptions, and refund management. Use when implementing PayPal payments, processing online transactions, or building e-commerce checkout flows.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-paypal-integration"
+      }
+    },
+    {
+      "name": "pci-compliance",
+      "description": "Implement PCI DSS compliance requirements for secure handling of payment card data and payment systems. Use when securing payment processing, achieving PCI compliance, or implementing payment card security measures.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-pci-compliance"
+      }
+    },
+    {
       "name": "pdf",
       "description": "Use this skill whenever the user wants to do anything with PDF files. This includes reading or extracting text/tables from PDFs, combining or merging multiple PDFs into one, splitting PDFs apart, rotating pages, adding watermarks, creating new PDFs, filling PDF forms, encrypting/decrypting PDFs, extracting images, and OCR on scanned PDFs to make them searchable. If the user mentions a .pdf file or asks to produce one, use this skill.",
       "category": "productivity",
@@ -1612,6 +3474,34 @@
       "source": {
         "type": "local",
         "path": "./plugins/skill-pdf"
+      }
+    },
+    {
+      "name": "postgresql-table-design",
+      "description": "Use this skill when designing or reviewing a PostgreSQL-specific schema. Covers best-practices, data types, indexing, constraints, performance patterns, and advanced features",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-postgresql-table-design"
+      }
+    },
+    {
+      "name": "postmortem-writing",
+      "description": "Write effective blameless postmortems with root cause analysis, timelines, and action items. Use when conducting incident reviews, writing postmortem documents, or improving incident response processes.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-postmortem-writing"
       }
     },
     {
@@ -1629,6 +3519,846 @@
       }
     },
     {
+      "name": "pptx-deck-context",
+      "description": "Use when preparing the narrative, sources, and design context for a new editable PPTX deck.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-pptx-deck-context"
+      }
+    },
+    {
+      "name": "pptx-quality-gates",
+      "description": "Use when validating or repairing an editable PPTX deck for geometry, accessibility, native editability, source lineage, and OOXML package integrity.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-pptx-quality-gates"
+      }
+    },
+    {
+      "name": "pptx-reference-deck-analysis",
+      "description": "Use when analyzing a reference PPTX for read-only structure, theme, typography, layout rhythm, diagnostics, derived template catalogs, or safe OOXML package inspection.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-pptx-reference-deck-analysis"
+      }
+    },
+    {
+      "name": "pptx-slide-specification",
+      "description": "Use when authoring or repairing a coordinate-explicit JSON specification for an editable PPTX deck.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-pptx-slide-specification"
+      }
+    },
+    {
+      "name": "pptx-visual-assets",
+      "description": "Use when selecting and placing approved supporting icons, images, SVGs, diagrams, or infographics in an editable PPTX deck.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-pptx-visual-assets"
+      }
+    },
+    {
+      "name": "pr-link-issue",
+      "description": "Append a GitHub issue link and its Linear ticket to the current PR's description. Use when asked to \"link issue to pr\", \"fill in issue and linear in pr\", \"add issue refs to pr\", or when given a GitHub issue URL and asked to attach it to the current PR. Resolves the Linear ticket automatically from the issue's linear-linkback comment.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "getsentry"
+      ],
+      "homepage": "https://github.com/getsentry/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-pr-link-issue"
+      }
+    },
+    {
+      "name": "pr-screenshots",
+      "description": "Capture screenshots of the Sentry UI in a web browser, lay them out in a pull request description as before/after tables, and upload them with `gh --attach`.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "getsentry"
+      ],
+      "homepage": "https://github.com/getsentry/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-pr-screenshots"
+      }
+    },
+    {
+      "name": "pr-writer",
+      "description": "Create or refresh reviewer-facing PR titles and descriptions. Use when opening a PR, updating its title or body, or preparing branch changes for review.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "getsentry"
+      ],
+      "homepage": "https://github.com/getsentry/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-pr-writer"
+      }
+    },
+    {
+      "name": "preference-optimization",
+      "description": "Align a fine-tuned model with preference data using DPO, ORPO, KTO, or SimPO. Use when preference pairs or thumbs-up/down feedback exist, when choosing between preference-optimization methods, or when a DPO run needs hyperparameters or debugging.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-preference-optimization"
+      }
+    },
+    {
+      "name": "presentation-creator",
+      "description": "Create data-driven presentation slides using React, Vite, and Recharts with Sentry branding. Use when asked to \"create a presentation\", \"build slides\", \"make a deck\", \"create a data presentation\", \"build a Sentry presentation\". Scaffolds a complete slide-based app with charts, animations, and single-file HTML output.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "getsentry"
+      ],
+      "homepage": "https://github.com/getsentry/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-presentation-creator"
+      }
+    },
+    {
+      "name": "projection-patterns",
+      "description": "Build read models and projections from event streams. Use when implementing CQRS read sides, building materialized views, or optimizing query performance in event-sourced systems.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-projection-patterns"
+      }
+    },
+    {
+      "name": "prometheus-configuration",
+      "description": "Set up Prometheus for comprehensive metric collection, storage, and monitoring of infrastructure and applications. Use when implementing metrics collection, setting up monitoring infrastructure, or configuring alerting systems.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-prometheus-configuration"
+      }
+    },
+    {
+      "name": "prompt-engineering-patterns",
+      "description": ">-",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-prompt-engineering-patterns"
+      }
+    },
+    {
+      "name": "prompt-optimizer",
+      "description": "Creates, optimizes, and iteratively refines agent prompts, system prompts, developer prompts, and reusable prompt templates. Use when asked to improve a prompt, optimize a system prompt, rewrite an agent prompt, tune prompt wording, make a prompt more reliable, port prompts between OpenAI, Claude, or Gemini, or build prompt evals.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "getsentry"
+      ],
+      "homepage": "https://github.com/getsentry/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-prompt-optimizer"
+      }
+    },
+    {
+      "name": "protect-mcp-setup",
+      "description": "Configure Cedar policy enforcement and Ed25519 signed receipts for Claude Code tool calls. Use when setting up projects that need cryptographic audit trails, policy-gated tool execution, or compliance-ready evidence of agent actions.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-protect-mcp-setup"
+      }
+    },
+    {
+      "name": "protocol-reverse-engineering",
+      "description": "Master network protocol reverse engineering including packet analysis, protocol dissection, and custom protocol documentation. Use when analyzing network traffic, understanding proprietary protocols, or debugging network communication.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-protocol-reverse-engineering"
+      }
+    },
+    {
+      "name": "python-anti-patterns",
+      "description": "Use this skill when reviewing Python code for common anti-patterns to avoid. Use as a checklist when reviewing code, before finalizing implementations, or when debugging issues that might stem from known bad practices.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-python-anti-patterns"
+      }
+    },
+    {
+      "name": "python-background-jobs",
+      "description": "Python background job patterns including task queues, workers, and event-driven architecture. Use when implementing async task processing, job queues, long-running operations, or decoupling work from request/response cycles.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-python-background-jobs"
+      }
+    },
+    {
+      "name": "python-code-style",
+      "description": "Python code style, linting, formatting, naming conventions, and documentation standards. Use when writing new code, reviewing style, configuring linters, writing docstrings, or establishing project standards.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-python-code-style"
+      }
+    },
+    {
+      "name": "python-configuration",
+      "description": "Python configuration management via environment variables and typed settings. Use when externalizing config, setting up pydantic-settings, managing secrets, or implementing environment-specific behavior.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-python-configuration"
+      }
+    },
+    {
+      "name": "python-design-patterns",
+      "description": "Python design patterns including KISS, Separation of Concerns, Single Responsibility, and composition over inheritance. Use this skill when designing a new service or component from scratch and choosing how to layer responsibilities, when refactoring a God class or monolithic function that has grown too large, when deciding whether to add a new abstraction or live with duplication, when evaluating a pull request for structural issues like tight coupling or leaking internal types, when choosing between inheritance and composition for a new class hierarchy, or when a codebase is becoming hard to test because of entangled I/O and business logic.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-python-design-patterns"
+      }
+    },
+    {
+      "name": "python-error-handling",
+      "description": "Python error handling patterns including input validation, exception hierarchies, and partial failure handling. Use when implementing validation logic, designing exception strategies, handling batch processing failures, or building robust APIs.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-python-error-handling"
+      }
+    },
+    {
+      "name": "python-observability",
+      "description": "Python observability patterns including structured logging, metrics, and distributed tracing. Use when adding logging, implementing metrics collection, setting up tracing, or debugging production systems.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-python-observability"
+      }
+    },
+    {
+      "name": "python-packaging",
+      "description": "Create distributable Python packages with proper project structure, setup.py/pyproject.toml, and publishing to PyPI. Use when packaging Python libraries, creating CLI tools, or distributing Python code.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-python-packaging"
+      }
+    },
+    {
+      "name": "python-performance-optimization",
+      "description": "Profile and optimize Python code using cProfile, memory profilers, and performance best practices. Use when debugging slow Python code, optimizing bottlenecks, or improving application performance.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-python-performance-optimization"
+      }
+    },
+    {
+      "name": "python-project-structure",
+      "description": "Python project organization, module architecture, and public API design. Use when setting up new projects, organizing modules, defining public interfaces with __all__, or planning directory layouts.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-python-project-structure"
+      }
+    },
+    {
+      "name": "python-resilience",
+      "description": "Python resilience patterns including automatic retries, exponential backoff, timeouts, and fault-tolerant decorators. Use when adding retry logic, implementing timeouts, building fault-tolerant services, or handling transient failures.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-python-resilience"
+      }
+    },
+    {
+      "name": "python-resource-management",
+      "description": "Python resource management with context managers, cleanup patterns, and streaming. Use when managing connections, file handles, implementing cleanup logic, or building streaming responses with accumulated state.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-python-resource-management"
+      }
+    },
+    {
+      "name": "python-testing-patterns",
+      "description": "Implement comprehensive testing strategies with pytest, fixtures, mocking, and test-driven development. Use when writing Python tests, setting up test suites, or implementing testing best practices.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-python-testing-patterns"
+      }
+    },
+    {
+      "name": "python-type-safety",
+      "description": "Python type safety with type hints, generics, protocols, and strict type checking. Use when adding type annotations, implementing generic classes, defining structural interfaces, or configuring mypy/pyright.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-python-type-safety"
+      }
+    },
+    {
+      "name": "quantized-export",
+      "description": "Export a promoted fine-tuned model in the right deployment format — merged safetensors, LoRA-only, GGUF with imatrix, or FP8. Use after a checkpoint passes promotion, when choosing a quantization format for a target device, or when an exported model fails its smoke test.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-quantized-export"
+      }
+    },
+    {
+      "name": "rag-implementation",
+      "description": "Build Retrieval-Augmented Generation (RAG) systems for LLM applications with vector databases and semantic search. Use when implementing knowledge-grounded AI, building document Q&A systems, or integrating LLMs with external knowledge bases.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-rag-implementation"
+      }
+    },
+    {
+      "name": "react-modernization",
+      "description": "Upgrade React applications to latest versions, migrate from class components to hooks, and adopt concurrent features. Use when modernizing React codebases, migrating to React Hooks, or upgrading to latest React versions.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-react-modernization"
+      }
+    },
+    {
+      "name": "react-native-architecture",
+      "description": "Build production React Native apps with Expo, navigation, native modules, offline sync, and cross-platform patterns. Use when developing mobile apps, implementing native integrations, or architecting React Native projects.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-react-native-architecture"
+      }
+    },
+    {
+      "name": "react-native-design",
+      "description": "Master React Native styling, navigation, and Reanimated animations for cross-platform mobile development. Use when building React Native apps, implementing navigation patterns, or creating performant animations.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-react-native-design"
+      }
+    },
+    {
+      "name": "react-state-management",
+      "description": "Master modern React state management with Redux Toolkit, Zustand, Jotai, and React Query. Use when setting up global state, managing server state, or choosing between state management solutions.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-react-state-management"
+      }
+    },
+    {
+      "name": "receiving-code-review",
+      "description": "Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technical rigor and verification, not performative agreement or blind implementation",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "superpowers"
+      ],
+      "homepage": "https://github.com/obra/superpowers",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-receiving-code-review"
+      }
+    },
+    {
+      "name": "recsys-pipeline-architect",
+      "description": "Design composable recommendation, ranking, and feed pipelines using the six-stage Source→Hydrator→Filter→Scorer→Selector→SideEffect framework popularized by xAI's open-sourced X For You algorithm. Use when building any system that picks \"the top K items for a (user, context)\" — content feeds, search ranking, RAG rerankers, task prioritizers, notification triage, ad selection.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-recsys-pipeline-architect"
+      }
+    },
+    {
+      "name": "requesting-code-review",
+      "description": "Use when completing tasks, implementing major features, or before merging to verify work meets requirements",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "superpowers"
+      ],
+      "homepage": "https://github.com/obra/superpowers",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-requesting-code-review"
+      }
+    },
+    {
+      "name": "responsive-design",
+      "description": "Implement modern responsive layouts using container queries, fluid typography, CSS Grid, and mobile-first breakpoint strategies. Use when building adaptive interfaces, implementing fluid layouts, or creating component-level responsive behavior.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-responsive-design"
+      }
+    },
+    {
+      "name": "review-agent-setup",
+      "description": "Configure human-in-the-loop gating for AI agent review actions in Claude Code. Use when setting up a project where an agent may post PR reviews, comments, merges, or edit CI configuration, and you want a cryptographically auditable approval trail with Cedar-enforced gates.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-review-agent-setup"
+      }
+    },
+    {
+      "name": "risk-metrics-calculation",
+      "description": "Calculate portfolio risk metrics including VaR, CVaR, Sharpe, Sortino, and drawdown analysis. Use when measuring portfolio risk, implementing risk limits, or building risk monitoring systems.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-risk-metrics-calculation"
+      }
+    },
+    {
+      "name": "rust-async-patterns",
+      "description": "Master Rust async programming with Tokio, async traits, error handling, and concurrent patterns. Use when building async Rust applications, implementing concurrent systems, or debugging async code.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-rust-async-patterns"
+      }
+    },
+    {
+      "name": "saga-orchestration",
+      "description": "Implement saga patterns for distributed transactions and cross-aggregate workflows. Use this skill when implementing distributed transactions across microservices where 2PC is unavailable, designing compensating actions for failed order workflows that span inventory, payment, and shipping services, building event-driven saga coordinators for travel booking systems that must roll back hotel, flight, and car rental reservations atomically, or debugging stuck saga states in production where compensation steps never complete.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-saga-orchestration"
+      }
+    },
+    {
+      "name": "sandbox-migrate-to-next",
+      "description": "Migrate Cloudflare Sandbox apps from stable @cloudflare/sandbox to @cloudflare/sandbox@next (SDK 1.0 preview). Use sandbox-next for apps already on the preview.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "cloudflare"
+      ],
+      "homepage": "https://github.com/cloudflare/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-sandbox-migrate-to-next"
+      }
+    },
+    {
+      "name": "sandbox-next",
+      "description": "Build or maintain Cloudflare Sandbox apps on @cloudflare/sandbox@next (SDK 1.0 preview). Use sandbox-migrate-to-next when porting a stable app.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "cloudflare"
+      ],
+      "homepage": "https://github.com/cloudflare/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-sandbox-next"
+      }
+    },
+    {
+      "name": "sandbox-stable",
+      "description": "Build or maintain Cloudflare Sandbox apps on the stable @cloudflare/sandbox package. Use sandbox-next for preview apps and sandbox-migrate-to-next for stable-to-preview migrations.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "cloudflare"
+      ],
+      "homepage": "https://github.com/cloudflare/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-sandbox-stable"
+      }
+    },
+    {
+      "name": "sast-configuration",
+      "description": "Configure Static Application Security Testing (SAST) tools for automated vulnerability detection in application code. Use when setting up security scanning, implementing DevSecOps practices, or automating code vulnerability detection.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-sast-configuration"
+      }
+    },
+    {
+      "name": "scan",
+      "description": "Scans the codebase to generate project-doc.md and AGENTS.md. Use when bootstrapping a new agent-driven repo, refreshing project documentation after architectural changes, or running a delta scan to detect drift. Runs a full scan on first use and a smart delta scan on subsequent runs. Uses understand-anything + context-mode when available, falls back to native tools otherwise. Only updates AGENTS.md on detected architectural changes with human confirmation.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-scan"
+      }
+    },
+    {
+      "name": "screen-reader-testing",
+      "description": "Test web applications with screen readers including VoiceOver, NVDA, and JAWS. Use when validating screen reader compatibility, debugging accessibility issues, or ensuring assistive technology support.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-screen-reader-testing"
+      }
+    },
+    {
+      "name": "secret-serialization",
+      "description": "Finds secrets, tokens, passwords, and API keys that can leak through generated serialization: Python dataclass repr and asdict, attrs, pydantic model_dump, NamedTuple, JavaScript JSON.stringify and util.inspect, structured logs, tracing spans, and error reports. Use when asked to \"check for secret serialization\", \"credential in repr\", \"repr=False audit\", \"secret in spans\", \"token in logs\", or when a change adds a credential field to a dataclass, model, or config object, or adds code that stringifies whole objects or every kwarg into telemetry.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "getsentry"
+      ],
+      "homepage": "https://github.com/getsentry/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-secret-serialization"
+      }
+    },
+    {
+      "name": "secrets-management",
+      "description": "Implement secure secrets management for CI/CD pipelines using Vault, AWS Secrets Manager, or native platform solutions. Use when handling sensitive credentials, rotating secrets, or securing CI/CD environments.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-secrets-management"
+      }
+    },
+    {
+      "name": "security-model",
+      "description": "Define, review, or update SECURITY_MODEL.md files that tell security review tools a repository's threat model, trust boundaries, invariants, reportable finding classes, and exclusions. Use when asked to \"write a security model\", \"threat model this repo for scanners\", \"define security review scope\", \"what counts as a vulnerability here\", \"update SECURITY_MODEL.md\", \"why did the scanner flag or miss this\", or to check whether existing security guidance still matches the code. Not for running a security review or editing the SECURITY.md disclosure policy.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "getsentry"
+      ],
+      "homepage": "https://github.com/getsentry/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-security-model"
+      }
+    },
+    {
+      "name": "security-requirement-extraction",
+      "description": "Derive security requirements from threat models and business context. Use when translating threats into actionable requirements, creating security user stories, or building security test cases.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-security-requirement-extraction"
+      }
+    },
+    {
+      "name": "security-review",
+      "description": "Security code review for vulnerabilities. Use when asked to \"security review\", \"find vulnerabilities\", \"check for security issues\", \"audit security\", \"OWASP review\", or review code for injection, XSS, authentication, authorization, cryptography issues. Provides systematic review with confidence-based reporting.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "getsentry"
+      ],
+      "homepage": "https://github.com/getsentry/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-security-review"
+      }
+    },
+    {
+      "name": "service-mesh-observability",
+      "description": "Implement comprehensive observability for service meshes including distributed tracing, metrics, and visualization. Use when setting up mesh monitoring, debugging latency issues, or implementing SLOs for service communication.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-service-mesh-observability"
+      }
+    },
+    {
+      "name": "session-guard",
+      "description": ">-",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-session-guard"
+      }
+    },
+    {
+      "name": "shellcheck-configuration",
+      "description": "Master ShellCheck static analysis configuration and usage for shell script quality. Use when setting up linting infrastructure, fixing code issues, or ensuring script portability.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-shellcheck-configuration"
+      }
+    },
+    {
+      "name": "signed-audit-trails-recipe",
+      "description": "Step-by-step cookbook for setting up cryptographically signed audit trails on Claude Code tool calls. Use when explaining, evaluating, or demonstrating the pattern before committing to the protect-mcp runtime hooks. Covers Cedar policy, Ed25519 receipts, offline verification, tamper detection, CI/CD integration, and SLSA composition.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-signed-audit-trails-recipe"
+      }
+    },
+    {
+      "name": "similarity-search-patterns",
+      "description": "Implement efficient similarity search with vector databases. Use when building semantic search, implementing nearest neighbor queries, or optimizing retrieval performance.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-similarity-search-patterns"
+      }
+    },
+    {
       "name": "skill-creator",
       "description": "Create new skills, modify and improve existing skills, and measure skill performance. Use when users want to create a skill from scratch, edit, or optimize an existing skill, run evals to test a skill, benchmark skill performance with variance analysis, or optimize a skill's description for better triggering accuracy.",
       "category": "productivity",
@@ -1640,6 +4370,34 @@
       "source": {
         "type": "local",
         "path": "./plugins/skill-skill-creator"
+      }
+    },
+    {
+      "name": "skill-scanner",
+      "description": "Scan agent skills for security issues. Use when asked to \"scan a skill\",",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "getsentry"
+      ],
+      "homepage": "https://github.com/getsentry/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-skill-scanner"
+      }
+    },
+    {
+      "name": "skill-writer",
+      "description": "Create, synthesize, and iteratively improve agent skills following the Agent Skills specification. Use when asked to \"create a skill\", \"write a skill\", \"synthesize sources into a skill\", \"improve a skill from positive/negative examples\", \"update a skill\", or \"maintain skill docs and registration\". Handles source capture, precision passes, authoring, registration, and validation.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "getsentry"
+      ],
+      "homepage": "https://github.com/getsentry/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-skill-writer"
       }
     },
     {
@@ -1657,6 +4415,370 @@
       }
     },
     {
+      "name": "slo-implementation",
+      "description": "Define and implement Service Level Indicators (SLIs) and Service Level Objectives (SLOs) with error budgets and alerting. Use when establishing reliability targets, implementing SRE practices, or measuring service performance.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-slo-implementation"
+      }
+    },
+    {
+      "name": "social-evidence-research",
+      "description": "Research public discussion on social platforms and keep every report claim tied to the source material that supports it. Use when researching or comparing how a product, event, or topic is discussed across social platforms or supplied social exports, when turning search results into a cited report, or when auditing a social research report for discovery-only evidence, double-counted reposts, misattributed comments, claims that go beyond the sample, or hidden access gaps.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-social-evidence-research"
+      }
+    },
+    {
+      "name": "social-publishing",
+      "description": ">",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-social-publishing"
+      }
+    },
+    {
+      "name": "solidity-security",
+      "description": "Master smart contract security best practices to prevent common vulnerabilities and implement secure Solidity patterns. Use when writing smart contracts, auditing existing contracts, or implementing security measures for blockchain applications.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-solidity-security"
+      }
+    },
+    {
+      "name": "spark-environment-setup",
+      "description": "Set up a working ML training/inference environment on NVIDIA DGX Spark (GB10, aarch64, CUDA 13). Use when installing PyTorch/Unsloth/TRL/vLLM on DGX Spark, hitting libcudart or wheel-ABI errors on aarch64, or choosing between NGC containers and bare pip installs.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-spark-environment-setup"
+      }
+    },
+    {
+      "name": "spark-memory-thermal-ops",
+      "description": "Manage unified memory and thermals during long-running ML jobs on NVIDIA DGX Spark. Use when planning memory headroom for a training run on GB10, when a job OOMs on unified memory, or when monitoring temperature and power during multi-hour training.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-spark-memory-thermal-ops"
+      }
+    },
+    {
+      "name": "spark-optimization",
+      "description": "Optimize Apache Spark jobs with partitioning, caching, shuffle optimization, and memory tuning. Use when improving Spark performance, debugging slow jobs, or scaling data processing pipelines.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-spark-optimization"
+      }
+    },
+    {
+      "name": "spark-training-gotchas",
+      "description": "Preflight and diagnose the ten known failure modes for ML training on NVIDIA DGX Spark. Use when a training run on DGX Spark fails to start, OOMs below the 128GB limit, slows down mid-run, or before any multi-hour training job on GB10.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-spark-training-gotchas"
+      }
+    },
+    {
+      "name": "sql-optimization-patterns",
+      "description": "Master SQL query optimization, indexing strategies, and EXPLAIN analysis to dramatically improve database performance and eliminate slow queries. Use when debugging slow queries, designing database schemas, or optimizing application performance.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-sql-optimization-patterns"
+      }
+    },
+    {
+      "name": "sred-project-organizer",
+      "description": "Take a list of projects and their related documentation, and organize them into the SRED format for submission.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "getsentry"
+      ],
+      "homepage": "https://github.com/getsentry/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-sred-project-organizer"
+      }
+    },
+    {
+      "name": "sred-work-summary",
+      "description": "Go back through the previous year of work and create a Notion doc that groups relevant links into projects that can then be documented as SRED projects.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "getsentry"
+      ],
+      "homepage": "https://github.com/getsentry/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-sred-work-summary"
+      }
+    },
+    {
+      "name": "startup-financial-modeling",
+      "description": "Build comprehensive 3-5 year financial models with revenue projections, cost structures, cash flow analysis, and scenario planning for early-stage startups. Use this skill when creating financial projections, calculating burn rate or runway, modeling fundraising scenarios, or preparing investor-ready financials for a seed or Series A raise.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-startup-financial-modeling"
+      }
+    },
+    {
+      "name": "startup-metrics-framework",
+      "description": "Track, calculate, and optimize key performance metrics for SaaS, marketplace, consumer, and B2B startups from seed through Series A, including unit economics, growth efficiency, and cash management. Use this skill when defining a metrics framework, calculating CAC/LTV/burn multiple, benchmarking business health, or preparing metrics dashboards for investors or board reporting.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-startup-metrics-framework"
+      }
+    },
+    {
+      "name": "stride-analysis-patterns",
+      "description": "Apply STRIDE methodology to systematically identify threats. Use when analyzing system security, conducting threat modeling sessions, or creating security documentation.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-stride-analysis-patterns"
+      }
+    },
+    {
+      "name": "stripe-integration",
+      "description": "Implement Stripe payment processing for robust, PCI-compliant payment flows including checkout, subscriptions, and webhooks. Use when integrating Stripe payments, building subscription systems, or implementing secure checkout flows.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-stripe-integration"
+      }
+    },
+    {
+      "name": "subagent-driven-development",
+      "description": "Use when executing implementation plans with independent tasks in the current session",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "superpowers"
+      ],
+      "homepage": "https://github.com/obra/superpowers",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-subagent-driven-development"
+      }
+    },
+    {
+      "name": "superself",
+      "description": "Use when a project keeps its state in Superself (a `<!-- superself:begin` block in AGENTS.md or CLAUDE.md, or `self setup` resolves the directory to a registered project): read `self context` at session start, attach work to a work unit, report with evidence, and record confirmed decisions so the next session picks up where this one left off.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-superself"
+      }
+    },
+    {
+      "name": "systematic-debugging",
+      "description": "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "superpowers"
+      ],
+      "homepage": "https://github.com/obra/superpowers",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-systematic-debugging"
+      }
+    },
+    {
+      "name": "tailwind-design-system",
+      "description": "Build scalable design systems with Tailwind CSS v4, design tokens, component libraries, and responsive patterns. Use when creating component libraries, implementing design systems, or standardizing UI patterns.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-tailwind-design-system"
+      }
+    },
+    {
+      "name": "task-coordination-strategies",
+      "description": "Decompose complex tasks, design dependency graphs, and coordinate multi-agent work with proper task descriptions and workload balancing. Use this skill when breaking down work for agent teams, managing task dependencies, or monitoring team progress.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-task-coordination-strategies"
+      }
+    },
+    {
+      "name": "team-communication-protocols",
+      "description": "Structured messaging protocols for agent team communication including message type selection, plan approval, shutdown procedures, and anti-patterns to avoid. Use this skill when establishing communication norms for a newly spawned team, when deciding whether to send a direct message or a broadcast, when a team-lead needs to review and approve an implementer's plan before work begins, when orchestrating a graceful team shutdown after all tasks are complete, or when debugging why teammates are not coordinating correctly at integration points.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-team-communication-protocols"
+      }
+    },
+    {
+      "name": "team-composition-analysis",
+      "description": "Design optimal team structures, hiring plans, compensation strategies, and equity allocation for early-stage startups from pre-seed through Series A. Use this skill when planning headcount, determining which roles to hire next, setting compensation or equity ranges, designing org structure, or building a hiring budget aligned to funding milestones.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-team-composition-analysis"
+      }
+    },
+    {
+      "name": "team-composition-patterns",
+      "description": "Design optimal agent team compositions with sizing heuristics, preset configurations, and agent type selection. Use this skill when deciding how many agents to spawn for a task, when choosing between a review team versus a feature team versus a debug team, when selecting the correct subagent_type for each role to ensure agents have the tools they need, when configuring display modes (tmux, iTerm2, in-process) for a CI or local environment, or when building a custom team composition for a non-standard workflow such as a migration or security audit.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-team-composition-patterns"
+      }
+    },
+    {
+      "name": "temporal-python-testing",
+      "description": "Test Temporal workflows with pytest, time-skipping, and mocking strategies. Covers unit testing, integration testing, replay testing, and local development setup. Use when implementing Temporal workflow tests or debugging test failures.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-temporal-python-testing"
+      }
+    },
+    {
+      "name": "terraform-module-library",
+      "description": "Build reusable Terraform modules for AWS, Azure, GCP, and OCI infrastructure following infrastructure-as-code best practices. Use when creating infrastructure modules, standardizing cloud provisioning, or implementing reusable IaC components.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-terraform-module-library"
+      }
+    },
+    {
+      "name": "test-driven-development",
+      "description": "Use when implementing any feature or bugfix, before writing implementation code",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "superpowers"
+      ],
+      "homepage": "https://github.com/obra/superpowers",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-test-driven-development"
+      }
+    },
+    {
       "name": "theme-factory",
       "description": "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can apply to any artifact that has been creating, or can generate a new theme on-the-fly.",
       "category": "productivity",
@@ -1668,6 +4790,258 @@
       "source": {
         "type": "local",
         "path": "./plugins/skill-theme-factory"
+      }
+    },
+    {
+      "name": "threat-mitigation-mapping",
+      "description": "Map identified threats to appropriate security controls and mitigations. Use when prioritizing security investments, creating remediation plans, or validating control effectiveness.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-threat-mitigation-mapping"
+      }
+    },
+    {
+      "name": "trace-to-training-data",
+      "description": "Convert evaluation traces and production logs into SFT examples and preference pairs. Use when graded traces or failure examples exist and need to become training data, when applying rejection sampling to model outputs, or when building DPO pairs from passing and failing runs.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-trace-to-training-data"
+      }
+    },
+    {
+      "name": "track-management",
+      "description": "Use this skill when creating, managing, or working with Conductor tracks - the logical work units for features, bugs, and refactors. Applies to spec.md, plan.md, and track lifecycle operations.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-track-management"
+      }
+    },
+    {
+      "name": "triage-frontend-issues",
+      "description": "Triage new issues in the Sentry `javascript` project by archiving non-actionable noise. Use when asked to \"triage issues\", \"triage the javascript project\", \"archive non-actionable issues\", \"triage new frontend issues\", or \"clean up the sentry/javascript queue\". Operates only on the sentry/javascript project, only archives (never resolves), and always archives with `untilEscalating`.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "getsentry"
+      ],
+      "homepage": "https://github.com/getsentry/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-triage-frontend-issues"
+      }
+    },
+    {
+      "name": "turborepo-caching",
+      "description": "Configure Turborepo for efficient monorepo builds with local and remote caching. Use when setting up Turborepo, optimizing build pipelines, or implementing distributed caching.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-turborepo-caching"
+      }
+    },
+    {
+      "name": "turnstile-spin",
+      "description": "Set up, repair, or migrate to Cloudflare Turnstile bot verification in an existing frontend and backend, including server-side Siteverify.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "cloudflare"
+      ],
+      "homepage": "https://github.com/cloudflare/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-turnstile-spin"
+      }
+    },
+    {
+      "name": "typescript-advanced-types",
+      "description": "Master TypeScript's advanced type system including generics, conditional types, mapped types, template literals, and utility types for building type-safe applications. Use when implementing complex type logic, creating reusable type utilities, or ensuring compile-time type safety in TypeScript projects.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-typescript-advanced-types"
+      }
+    },
+    {
+      "name": "typing-exclusion-worker",
+      "description": "Python typing exclusion worker: remove assigned mypy exclusion modules in small scoped batches, fix typing issues, run validation, and produce a structured completion summary. Use when running parallel typing-debt workers or when asked to remove modules from pyproject mypy exclusion overrides.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "getsentry"
+      ],
+      "homepage": "https://github.com/getsentry/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-typing-exclusion-worker"
+      }
+    },
+    {
+      "name": "unity-ecs-patterns",
+      "description": "Master Unity ECS (Entity Component System) with DOTS, Jobs, and Burst for high-performance game development. Use when building data-oriented games, optimizing performance, or working with large entity counts.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-unity-ecs-patterns"
+      }
+    },
+    {
+      "name": "using-git-worktrees",
+      "description": "Use when starting feature work that needs isolation from current workspace or before executing implementation plans - ensures an isolated workspace exists via native tools or git worktree fallback",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "superpowers"
+      ],
+      "homepage": "https://github.com/obra/superpowers",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-using-git-worktrees"
+      }
+    },
+    {
+      "name": "using-superpowers",
+      "description": "Use when starting any conversation - establishes how to find and use skills, requiring skill invocation before ANY response including clarifying questions",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "superpowers"
+      ],
+      "homepage": "https://github.com/obra/superpowers",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-using-superpowers"
+      }
+    },
+    {
+      "name": "uv-package-manager",
+      "description": "Master the uv package manager for fast Python dependency management, virtual environments, and modern Python project workflows. Use when setting up Python projects, managing dependencies, or optimizing Python development workflows with uv.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-uv-package-manager"
+      }
+    },
+    {
+      "name": "vector-index-tuning",
+      "description": "Optimize vector index performance for latency, recall, and memory. Use when tuning HNSW parameters, selecting quantization strategies, or scaling vector search infrastructure.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-vector-index-tuning"
+      }
+    },
+    {
+      "name": "verification-before-completion",
+      "description": "Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verification commands and confirming output before making any success claims; evidence before assertions always",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "superpowers"
+      ],
+      "homepage": "https://github.com/obra/superpowers",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-verification-before-completion"
+      }
+    },
+    {
+      "name": "vision-sft",
+      "description": "Fine-tune vision-language models (VLMs) with supervised learning on image+text data. Use when adapting a VLM to a visual domain or task, configuring frozen-vision-tower LoRA, or debugging a VLM fine-tune that trains without learning.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-vision-sft"
+      }
+    },
+    {
+      "name": "visual-design-foundations",
+      "description": "Apply typography, color theory, spacing systems, and iconography principles to create cohesive visual designs. Use when establishing design tokens, building style guides, or improving visual hierarchy and consistency.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-visual-design-foundations"
+      }
+    },
+    {
+      "name": "visual-edit-precision",
+      "description": ">-",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-visual-edit-precision"
+      }
+    },
+    {
+      "name": "wcag-audit-patterns",
+      "description": "Conduct WCAG 2.2 accessibility audits with automated testing, manual verification, and remediation guidance. Use when auditing websites for accessibility, fixing WCAG violations, or implementing accessible design patterns.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-wcag-audit-patterns"
       }
     },
     {
@@ -1685,6 +5059,48 @@
       }
     },
     {
+      "name": "web-component-design",
+      "description": "Master React, Vue, and Svelte component patterns including CSS-in-JS, composition strategies, and reusable component architecture. Use when building UI component libraries, designing component APIs, or implementing frontend design systems.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-web-component-design"
+      }
+    },
+    {
+      "name": "web-perf",
+      "description": "Audit, diagnose, or optimize website loading and interaction performance, Core Web Vitals, and Lighthouse performance scores.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "cloudflare"
+      ],
+      "homepage": "https://github.com/cloudflare/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-web-perf"
+      }
+    },
+    {
+      "name": "web3-testing",
+      "description": "Test smart contracts comprehensively using Hardhat and Foundry with unit tests, integration tests, and mainnet forking. Use when testing Solidity contracts, setting up blockchain test suites, or validating DeFi protocols.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-web3-testing"
+      }
+    },
+    {
       "name": "webapp-testing",
       "description": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.",
       "category": "productivity",
@@ -1696,6 +5112,118 @@
       "source": {
         "type": "local",
         "path": "./plugins/skill-webapp-testing"
+      }
+    },
+    {
+      "name": "workers-best-practices",
+      "description": "Cloudflare Workers best practices for production applications. Use when writing, reviewing, or configuring Workers.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "cloudflare"
+      ],
+      "homepage": "https://github.com/cloudflare/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-workers-best-practices"
+      }
+    },
+    {
+      "name": "workers-development",
+      "description": "Run, inspect, and debug Cloudflare Workers during local development with cf dev, wrangler dev, or the Cloudflare Vite plugin, using Local Explorer to read and seed binding data and query local traces and logs. Also routes production debugging to Workers observability. Use for debugging requests whether or not the project uses Wrangler.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "cloudflare"
+      ],
+      "homepage": "https://github.com/cloudflare/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-workers-development"
+      }
+    },
+    {
+      "name": "workers-profiling",
+      "description": "Profile or debug CPU usage and memory allocation in deployed Cloudflare Workers and Durable Objects. Then use this information to optimize your code.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "cloudflare"
+      ],
+      "homepage": "https://github.com/cloudflare/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-workers-profiling"
+      }
+    },
+    {
+      "name": "workflow-orchestration-patterns",
+      "description": "Design durable workflows with Temporal for distributed systems. Covers workflow vs activity separation, saga patterns, state management, and determinism constraints. Use when building long-running processes, distributed transactions, or microservice orchestration.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-workflow-orchestration-patterns"
+      }
+    },
+    {
+      "name": "workflow-patterns",
+      "description": "Use this skill when implementing tasks according to Conductor's TDD workflow, handling phase checkpoints, managing git commits for tasks, or understanding the verification protocol.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "wshobson-agents"
+      ],
+      "homepage": "https://github.com/wshobson/agents",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-workflow-patterns"
+      }
+    },
+    {
+      "name": "wrangler",
+      "description": "Run or troubleshoot Wrangler CLI commands in projects that have a wrangler.jsonc, wrangler.json, or wrangler.toml file, including local development, Previews, deployment, and resource management. For new projects and projects without a Wrangler configuration file, use the cf CLI instead.",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "cloudflare"
+      ],
+      "homepage": "https://github.com/cloudflare/skills",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-wrangler"
+      }
+    },
+    {
+      "name": "writing-plans",
+      "description": "Use when you have a spec or requirements for a multi-step task, before touching code",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "superpowers"
+      ],
+      "homepage": "https://github.com/obra/superpowers",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-writing-plans"
+      }
+    },
+    {
+      "name": "writing-skills",
+      "description": "Use when creating new skills, editing existing skills, or verifying skills work before deployment",
+      "category": "productivity",
+      "keywords": [
+        "skill",
+        "superpowers"
+      ],
+      "homepage": "https://github.com/obra/superpowers",
+      "source": {
+        "type": "local",
+        "path": "./plugins/skill-writing-skills"
       }
     },
     {

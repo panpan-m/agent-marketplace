@@ -8,7 +8,63 @@
         ]
       }
     },
+    "accessibility-compliance": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "agents-md": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "agents-sdk": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "ai-debt-detector": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "airflow-dag-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
     "algorithmic-art": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "angular-migration": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "anti-reversing-techniques": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "api-design-principles": {
       "components": {
         "skills": [
           {}
@@ -24,6 +80,125 @@
         ]
       }
     },
+    "architecture-decision-records": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "architecture-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "async-python-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "attack-tree-construction": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "auth-implementation-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "avoid-ai-writing": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "backtesting-frameworks": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "bash-defensive-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "basin": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "bats-testing-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "bazel-build-optimization": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "before-you-build": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "billing-automation": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "binary-analysis-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "block-no-verify-hook": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "blog-writing-guide": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "brainstorming": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
     "brand-guidelines": {
       "components": {
         "skills": [
@@ -31,7 +206,105 @@
         ]
       }
     },
+    "brand-landingpage": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "browse-local-sentry": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
     "canvas-design": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "cf-cli": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "changelog-automation": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "checkpoint-promotion": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "claude-settings-audit": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "cloudflare": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "cloudflare-app-bootstrap": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "cloudflare-email-service": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "cloudflare-one": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "cloudflare-one-migrations": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "code-review": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "code-review-excellence": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "code-simplifier": {
       "components": {
         "skills": [
           {}
@@ -74,7 +347,161 @@
         ]
       }
     },
+    "commit": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "competitive-landscape": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "connectivity-triage": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "context-driven-development": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "cost-optimization": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "cqrs-implementation": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "create-branch": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "data-quality-frameworks": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "data-storytelling": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "database-migration": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "dataset-curation": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "dbt-transformation-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "debugging-strategies": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "defi-protocol-templates": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "dependency-upgrade": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "deployment-pipeline-design": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "design-system-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "diagnosing-superpowers": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
     "discernment-nudge": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "dispatching-parallel-agents": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "distributed-tracing": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "django-access-review": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "django-perf-review": {
       "components": {
         "skills": [
           {}
@@ -88,7 +515,56 @@
         ]
       }
     },
+    "document-api-endpoint": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
     "docx": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "dotnet-backend-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "durable-objects": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "e2e-testing-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "embedding-strategies": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "employment-contract-templates": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "error-handling-patterns": {
       "components": {
         "skills": [
           {}
@@ -635,7 +1111,224 @@
         ]
       }
     },
+    "eval-harness-first": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "evaluation-methodology": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "event-store-design": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "executing-plans": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "fastapi-templates": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "file-conversion": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "find-bugs": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "find-skills": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "finetuning-method-selection": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "finishing-a-development-branch": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "frameworks-on-cloudflare": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
     "frontend-design": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "gateway-workers": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "gdpr-data-handling": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "gh-review-requests": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "gha-security-review": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "git-advanced-workflows": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "github-actions-templates": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "gitlab-ci-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "gitops-workflow": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "go-concurrency-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "godot-gdscript-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "grafana-dashboards": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "grounded-vault": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "grpo-rlvr-training": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "hads": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "helm-chart-scaffolding": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "hermes-tweet": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "hybrid-cloud-networking": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "hybrid-search-implementation": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "incident-runbook-templates": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "interaction-design": {
       "components": {
         "skills": [
           {}
@@ -1378,6 +2071,62 @@
         ]
       }
     },
+    "istio-traffic-management": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "iterate-pr": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "javascript-testing-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "k2": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "k8s-manifest-generator": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "k8s-security-policies": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "kpi-dashboard-design": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "langchain-architecture": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
     "link.aotrust/notary": {
       "components": {
         "mcpServers": [
@@ -1387,7 +2136,189 @@
         ]
       }
     },
+    "linkerd-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "llm-evaluation": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "lora-qlora-recipes": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "market-sizing-analysis": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
     "mcp-builder": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "memory-forensics": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "memory-safety-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "microservices-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "ml-pipeline-workflow": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "mobile-android-design": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "mobile-ios-design": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "modern-javascript-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "monorepo-management": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "mtls-configuration": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "multi-cloud-architecture": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "multi-reviewer-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "nextjs-app-router-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "nextjs-on-cloudflare": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "nft-standards": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "nodejs-backend-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "nx-workspace-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "on-call-handoff-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "openapi-spec-generation": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "parallel-debugging": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "parallel-feature-development": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "paypal-integration": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "pci-compliance": {
       "components": {
         "skills": [
           {}
@@ -1401,7 +2332,441 @@
         ]
       }
     },
+    "postgresql-table-design": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "postmortem-writing": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
     "pptx": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "pptx-deck-context": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "pptx-quality-gates": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "pptx-reference-deck-analysis": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "pptx-slide-specification": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "pptx-visual-assets": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "pr-link-issue": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "pr-screenshots": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "pr-writer": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "preference-optimization": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "presentation-creator": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "projection-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "prometheus-configuration": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "prompt-engineering-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "prompt-optimizer": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "protect-mcp-setup": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "protocol-reverse-engineering": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "python-anti-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "python-background-jobs": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "python-code-style": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "python-configuration": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "python-design-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "python-error-handling": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "python-observability": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "python-packaging": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "python-performance-optimization": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "python-project-structure": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "python-resilience": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "python-resource-management": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "python-testing-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "python-type-safety": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "quantized-export": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "rag-implementation": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "react-modernization": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "react-native-architecture": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "react-native-design": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "react-state-management": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "receiving-code-review": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "recsys-pipeline-architect": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "requesting-code-review": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "responsive-design": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "review-agent-setup": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "risk-metrics-calculation": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "rust-async-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "saga-orchestration": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "sandbox-migrate-to-next": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "sandbox-next": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "sandbox-stable": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "sast-configuration": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "scan": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "screen-reader-testing": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "secret-serialization": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "secrets-management": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "security-model": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "security-requirement-extraction": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "security-review": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "service-mesh-observability": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "session-guard": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "shellcheck-configuration": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "signed-audit-trails-recipe": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "similarity-search-patterns": {
       "components": {
         "skills": [
           {}
@@ -1415,7 +2780,203 @@
         ]
       }
     },
+    "skill-scanner": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "skill-writer": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
     "slack-gif-creator": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "slo-implementation": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "social-evidence-research": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "social-publishing": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "solidity-security": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "spark-environment-setup": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "spark-memory-thermal-ops": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "spark-optimization": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "spark-training-gotchas": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "sql-optimization-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "sred-project-organizer": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "sred-work-summary": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "startup-financial-modeling": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "startup-metrics-framework": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "stride-analysis-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "stripe-integration": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "subagent-driven-development": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "superself": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "systematic-debugging": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "tailwind-design-system": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "task-coordination-strategies": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "team-communication-protocols": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "team-composition-analysis": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "team-composition-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "temporal-python-testing": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "terraform-module-library": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "test-driven-development": {
       "components": {
         "skills": [
           {}
@@ -1429,6 +2990,132 @@
         ]
       }
     },
+    "threat-mitigation-mapping": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "trace-to-training-data": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "track-management": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "triage-frontend-issues": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "turborepo-caching": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "turnstile-spin": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "typescript-advanced-types": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "typing-exclusion-worker": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "unity-ecs-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "using-git-worktrees": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "using-superpowers": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "uv-package-manager": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "vector-index-tuning": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "verification-before-completion": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "vision-sft": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "visual-design-foundations": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "visual-edit-precision": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "wcag-audit-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
     "web-artifacts-builder": {
       "components": {
         "skills": [
@@ -1436,7 +3123,84 @@
         ]
       }
     },
+    "web-component-design": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "web-perf": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "web3-testing": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
     "webapp-testing": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "workers-best-practices": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "workers-development": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "workers-profiling": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "workflow-orchestration-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "workflow-patterns": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "wrangler": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "writing-plans": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "writing-skills": {
       "components": {
         "skills": [
           {}
