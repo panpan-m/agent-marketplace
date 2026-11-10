@@ -1,0 +1,1454 @@
+{
+  "version": 1,
+  "plugins": {
+    "academy-guide": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "algorithmic-art": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "app.scanbim/scanbim-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "brand-guidelines": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "canvas-design": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "com.aave/mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "com.ainetcafe/ai-netcafe": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "com.crawlconsole/crawlconsole": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "com.falkordb/QueryWeaver": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "discernment-nudge": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "doc-coauthoring": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "docx": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "eu.ansvar/australian-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/austrian-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/bahraini-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/bangladeshi-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/botswana-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/brazil-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/bulgarian-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/cambodian-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/cameroonian-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/canadian-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/chilean-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/cypriot-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/czech-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/dominican-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/ecuadorian-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/estonian-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/ethiopian-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/georgian-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/ghana-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/hungarian-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/india-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/israel-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/italian-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/ivorian-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/japan-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/jordanian-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/kenya-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/latvian-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/liechtenstein-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/malawi-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/maltese-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/mozambican-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/namibian-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/nepal-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/newzealand-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/nigeria-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/pakistani-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/paraguayan-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/peruvian-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/qatari-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/romanian-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/russian-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/saudi-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/senegalese-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/singapore-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/slovak-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/south-korea-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/southafrica-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/srilanka-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/swedish-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/switzerland-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/taiwanese-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/tanzanian-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/thailand-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/tunisian-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/uae-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/ugandan-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/ukrainian-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/uruguayan-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "eu.ansvar/zambian-law-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "frontend-design": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "internal-comms": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "io.github.aarna-ai/atv": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.AIAppsAPI/adaptive-recall": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.AlexFloyd13/clevername-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.amehiny/invoice-generator": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.apolloio/mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.architectds/mathgraphs-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.ariffazil/aaa-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.ariffazil/arifos-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.arikusi/deepseek": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.aybeeare/water-conditions": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.Baldri/nexbid": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.contentforge-press/app-intel": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.contentforge-press/github-intel": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.contentforge-press/hiring-intel": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.contentforge-press/shopify-intel": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.derekslinz/meta-data-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.do-droid/busan-essentials": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.do-droid/seoul-essentials": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.elevasyncsolutions-jpg/cryptoboss-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.ElToro1855/ozav-mcp-server": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.exp78/telldone": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.faulknerwayne73-droid/kojiru-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.flat-cash/flatcash": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.gkcogz/1trippulse": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.Godalo-ai/godalo": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.heterogentdev/heterogent": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.hifriendbot/cogmemai": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.imbenrabi/financial-modeling-prep-mcp-server": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.jamesrez/valoria": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.jamesrez/valoria-intelligence": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.JOHNZhang-ui/shotflow-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.jrse/jaraco_website": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.kkohli-nyu/findvise-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.kushneryk/join.cloud": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.laundromatic/shopgraph": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.lazymac2x/smart-data-extractor": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.littleblakew/msds-chain": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.lj22503/invest-brain": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.localseodata/mcp-server": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.marvennai/marvenn-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.meloncafe/chromadb-remote-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.meltingpixelsai/harvey-budget": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.meltingpixelsai/harvey-intel": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.meltingpixelsai/harvey-tools": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.meltingpixelsai/harvey-verify": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.meltingpixelsai/relayzero": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.meltingpixelsai/zero-core-budget": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.meltingpixelsai/zero-core-intel": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.meltingpixelsai/zero-core-tools": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.meltingpixelsai/zero-core-verify": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.mifactory-bot/mifactory-contratos": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.mifactory-bot/mifactory-logic-verifier": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.mister-franklin/gdpr-decisions": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.mizukaizen/hive-doctrine-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.mjandrews1/c3fst-biomedical-search": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.moltstudios/lumnix": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.morebetterclaw/forge-swap": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.mountainmystic/hedera-mcp-platform": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.mountainmystic/hederatoolbox": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.Nordvei/nordic-energy-oracle": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.norrietaylor/distillery-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.ONLYOFFICE/docspace": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.prakhargour10/utility-mcp-server": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.raresv/cardora-business-assistant": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.rodrigojille/kustodia-escrow": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.SamYuan1990/i18n-agent-action": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.shabaaspay/shabaaspay-mcp-server": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.Shuangshuang007/workopia": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.SocioLogicAI/signal-relay": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.sudomichael/gizmoanalytics": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.teamsincetoday/newsletter-commerce-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.teamsincetoday/podcast-commerce-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.teamsincetoday/recipe-commerce-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.thingery/thingery": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.ThomasViennet/referencime": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.trypeach-io/mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.US1929/switchai": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.webios2026-byte/solradar-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.xenarch-ai/xenarch-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.github.yunaremaia/x402-crypto-mcp": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "io.verityscore/geo-audit": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "link.aotrust/notary": {
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "mcp-builder": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "pdf": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "pptx": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "skill-creator": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "slack-gif-creator": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "theme-factory": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "web-artifacts-builder": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "webapp-testing": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    },
+    "xlsx": {
+      "components": {
+        "skills": [
+          {}
+        ]
+      }
+    }
+  }
+}
