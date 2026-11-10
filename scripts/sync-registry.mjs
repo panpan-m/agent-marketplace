@@ -135,7 +135,7 @@ for (const wrapper of wrappers) {
     entries.push({
       name: (server.name ?? folder).slice(0, 120),
       description: (server.description ?? "").slice(0, 4000),
-      category: "MCP",
+      category: "development",
       homepage: typeof server.repository?.url === "string" ? server.repository.url : undefined,
       source: { type: "local", path: `./plugins/${folder}` },
     });

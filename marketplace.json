@@ -3,7 +3,7 @@
     {
       "name": "academy-guide",
       "description": ">",
-      "category": "Skills",
+      "category": "productivity",
       "keywords": [
         "skill",
         "anthropic"
@@ -17,7 +17,7 @@
     {
       "name": "algorithmic-art",
       "description": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields, or particle systems. Create original algorithmic art rather than copying existing artists' work to avoid copyright violations.",
-      "category": "Skills",
+      "category": "productivity",
       "keywords": [
         "skill",
         "anthropic"
@@ -31,7 +31,7 @@
     {
       "name": "app.scanbim/scanbim-mcp",
       "description": "AI Hub for AEC — 46 tools for Revit, Navisworks, ACC, XR via Autodesk Platform Services",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/ScanBIM-Labs/scanbim-mcp",
       "source": {
         "type": "local",
@@ -41,7 +41,7 @@
     {
       "name": "brand-guidelines",
       "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply.",
-      "category": "Skills",
+      "category": "productivity",
       "keywords": [
         "skill",
         "anthropic"
@@ -55,7 +55,7 @@
     {
       "name": "canvas-design",
       "description": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying existing artists' work to avoid copyright violations.",
-      "category": "Skills",
+      "category": "productivity",
       "keywords": [
         "skill",
         "anthropic"
@@ -69,7 +69,7 @@
     {
       "name": "com.aave/mcp",
       "description": "Official Aave MCP for V3 and V4 markets, positions, governance, and transaction preparation.",
-      "category": "MCP",
+      "category": "development",
       "source": {
         "type": "local",
         "path": "./plugins/mcp-com.aave-mcp"
@@ -78,7 +78,7 @@
     {
       "name": "com.ainetcafe/ai-netcafe",
       "description": "Tables and ledgers checked by arithmetic, not by a model. 24 tools. MCP 2026-07-28 ready.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/mario03690/ai-netcafe",
       "source": {
         "type": "local",
@@ -88,7 +88,7 @@
     {
       "name": "com.crawlconsole/crawlconsole",
       "description": "Backlink Analysis MCP for AI Agents: authority, referring domains, and competitor link gaps.",
-      "category": "MCP",
+      "category": "development",
       "source": {
         "type": "local",
         "path": "./plugins/mcp-com.crawlconsole-crawlconsole"
@@ -97,7 +97,7 @@
     {
       "name": "com.falkordb/QueryWeaver",
       "description": "An MCP server for Text2SQL: transforms natural language into SQL using graph schema understanding.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/FalkorDB/QueryWeaver",
       "source": {
         "type": "local",
@@ -107,7 +107,7 @@
     {
       "name": "discernment-nudge",
       "description": ">",
-      "category": "Skills",
+      "category": "productivity",
       "keywords": [
         "skill",
         "anthropic"
@@ -121,7 +121,7 @@
     {
       "name": "doc-coauthoring",
       "description": "Guide users through a structured workflow for co-authoring documentation. Use when user wants to write documentation, proposals, technical specs, decision docs, or similar structured content. This workflow helps users efficiently transfer context, refine content through iteration, and verify the doc works for readers. Trigger when user mentions writing docs, creating proposals, drafting specs, or similar documentation tasks.",
-      "category": "Skills",
+      "category": "productivity",
       "keywords": [
         "skill",
         "anthropic"
@@ -135,7 +135,7 @@
     {
       "name": "docx",
       "description": "Use this skill whenever the user wants to create, read, edit, or manipulate Word documents (.docx files) or Word templates (.dotx files). Triggers include: any mention of 'Word doc', 'word document', '.docx', '.dotx', or requests to produce professional documents with formatting like tables of contents, headings, page numbers, or letterheads. Also use when extracting or reorganizing content from .docx or .dotx files, inserting or replacing images in documents, performing find-and-replace in Word files, working with tracked changes or comments, or converting content into a polished Word document. If the user asks for a 'report', 'memo', 'letter', 'template', or similar deliverable as a Word or .docx file, use this skill. Do NOT use for PDFs, spreadsheets, Google Docs, or general coding tasks unrelated to document generation.",
-      "category": "Skills",
+      "category": "productivity",
       "keywords": [
         "skill",
         "anthropic"
@@ -149,7 +149,7 @@
     {
       "name": "eu.ansvar/australian-law-mcp",
       "description": "Australian legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/australian-law-mcp",
       "source": {
         "type": "local",
@@ -159,7 +159,7 @@
     {
       "name": "eu.ansvar/austrian-law-mcp",
       "description": "Austrian federal legislation — statutes and EU cross-references via MCP",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/Austrian-law-mcp",
       "source": {
         "type": "local",
@@ -169,7 +169,7 @@
     {
       "name": "eu.ansvar/bahraini-law-mcp",
       "description": "Bahrain legislation via MCP -- full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/bahraini-law-mcp",
       "source": {
         "type": "local",
@@ -179,7 +179,7 @@
     {
       "name": "eu.ansvar/bangladeshi-law-mcp",
       "description": "Bangladeshi legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/Bangladeshi-law-mcp",
       "source": {
         "type": "local",
@@ -189,7 +189,7 @@
     {
       "name": "eu.ansvar/botswana-law-mcp",
       "description": "Botswana legislation via MCP -- full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/botswana-law-mcp",
       "source": {
         "type": "local",
@@ -199,7 +199,7 @@
     {
       "name": "eu.ansvar/brazil-law-mcp",
       "description": "Brazil legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/brazil-law-mcp",
       "source": {
         "type": "local",
@@ -209,7 +209,7 @@
     {
       "name": "eu.ansvar/bulgarian-law-mcp",
       "description": "Bulgarian legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/Bulgarian-law-mcp",
       "source": {
         "type": "local",
@@ -219,7 +219,7 @@
     {
       "name": "eu.ansvar/cambodian-law-mcp",
       "description": "Cambodia legislation via MCP -- full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/cambodian-law-mcp",
       "source": {
         "type": "local",
@@ -229,7 +229,7 @@
     {
       "name": "eu.ansvar/cameroonian-law-mcp",
       "description": "Cameroon legislation via MCP -- full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/cameroonian-law-mcp",
       "source": {
         "type": "local",
@@ -239,7 +239,7 @@
     {
       "name": "eu.ansvar/canadian-law-mcp",
       "description": "Canadian federal law database — PIPEDA, CASL, cybercrime, corporate law with full-text search",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/canadian-law-mcp",
       "source": {
         "type": "local",
@@ -249,7 +249,7 @@
     {
       "name": "eu.ansvar/chilean-law-mcp",
       "description": "Chilean legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/Chilean-law-mcp",
       "source": {
         "type": "local",
@@ -259,7 +259,7 @@
     {
       "name": "eu.ansvar/cypriot-law-mcp",
       "description": "Cypriot legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/Cypriot-law-mcp",
       "source": {
         "type": "local",
@@ -269,7 +269,7 @@
     {
       "name": "eu.ansvar/czech-law-mcp",
       "description": "Czech legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/Czech-law-mcp",
       "source": {
         "type": "local",
@@ -279,7 +279,7 @@
     {
       "name": "eu.ansvar/dominican-law-mcp",
       "description": "Dominican Republic legislation via MCP -- full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/dominican-law-mcp",
       "source": {
         "type": "local",
@@ -289,7 +289,7 @@
     {
       "name": "eu.ansvar/ecuadorian-law-mcp",
       "description": "Ecuador legislation via MCP -- full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/ecuadorian-law-mcp",
       "source": {
         "type": "local",
@@ -299,7 +299,7 @@
     {
       "name": "eu.ansvar/estonian-law-mcp",
       "description": "Estonian legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/Estonian-law-mcp",
       "source": {
         "type": "local",
@@ -309,7 +309,7 @@
     {
       "name": "eu.ansvar/ethiopian-law-mcp",
       "description": "Ethiopia legislation via MCP -- full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/ethiopian-law-mcp",
       "source": {
         "type": "local",
@@ -319,7 +319,7 @@
     {
       "name": "eu.ansvar/georgian-law-mcp",
       "description": "Georgian legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/Georgian-law-mcp",
       "source": {
         "type": "local",
@@ -329,7 +329,7 @@
     {
       "name": "eu.ansvar/ghana-law-mcp",
       "description": "Ghana legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/ghana-law-mcp",
       "source": {
         "type": "local",
@@ -339,7 +339,7 @@
     {
       "name": "eu.ansvar/hungarian-law-mcp",
       "description": "Hungarian legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/Hungarian-law-mcp",
       "source": {
         "type": "local",
@@ -349,7 +349,7 @@
     {
       "name": "eu.ansvar/india-law-mcp",
       "description": "Indian legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/india-law-mcp",
       "source": {
         "type": "local",
@@ -359,7 +359,7 @@
     {
       "name": "eu.ansvar/israel-law-mcp",
       "description": "Israel legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/israel-law-mcp",
       "source": {
         "type": "local",
@@ -369,7 +369,7 @@
     {
       "name": "eu.ansvar/italian-law-mcp",
       "description": "Italian legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/italian-law-mcp",
       "source": {
         "type": "local",
@@ -379,7 +379,7 @@
     {
       "name": "eu.ansvar/ivorian-law-mcp",
       "description": "Ivory Coast legislation via MCP -- full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/ivorian-law-mcp",
       "source": {
         "type": "local",
@@ -389,7 +389,7 @@
     {
       "name": "eu.ansvar/japan-law-mcp",
       "description": "Japan legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/japan-law-mcp",
       "source": {
         "type": "local",
@@ -399,7 +399,7 @@
     {
       "name": "eu.ansvar/jordanian-law-mcp",
       "description": "Jordan legislation via MCP -- full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/jordanian-law-mcp",
       "source": {
         "type": "local",
@@ -409,7 +409,7 @@
     {
       "name": "eu.ansvar/kenya-law-mcp",
       "description": "Kenya legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/kenya-law-mcp",
       "source": {
         "type": "local",
@@ -419,7 +419,7 @@
     {
       "name": "eu.ansvar/latvian-law-mcp",
       "description": "Latvian legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/Latvian-law-mcp",
       "source": {
         "type": "local",
@@ -429,7 +429,7 @@
     {
       "name": "eu.ansvar/liechtenstein-law-mcp",
       "description": "Liechtenstein legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/Liechtenstein-law-mcp",
       "source": {
         "type": "local",
@@ -439,7 +439,7 @@
     {
       "name": "eu.ansvar/malawi-law-mcp",
       "description": "Malawi legislation via MCP -- full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/malawi-law-mcp",
       "source": {
         "type": "local",
@@ -449,7 +449,7 @@
     {
       "name": "eu.ansvar/maltese-law-mcp",
       "description": "Maltese legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/Maltese-law-mcp",
       "source": {
         "type": "local",
@@ -459,7 +459,7 @@
     {
       "name": "eu.ansvar/mozambican-law-mcp",
       "description": "Mozambique legislation via MCP -- full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/mozambican-law-mcp",
       "source": {
         "type": "local",
@@ -469,7 +469,7 @@
     {
       "name": "eu.ansvar/namibian-law-mcp",
       "description": "Namibia legislation via MCP -- full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/namibian-law-mcp",
       "source": {
         "type": "local",
@@ -479,7 +479,7 @@
     {
       "name": "eu.ansvar/nepal-law-mcp",
       "description": "Nepal legislation via MCP -- full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/nepal-law-mcp",
       "source": {
         "type": "local",
@@ -489,7 +489,7 @@
     {
       "name": "eu.ansvar/newzealand-law-mcp",
       "description": "New Zealand legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/newzealand-law-mcp",
       "source": {
         "type": "local",
@@ -499,7 +499,7 @@
     {
       "name": "eu.ansvar/nigeria-law-mcp",
       "description": "Nigeria legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/nigeria-law-mcp",
       "source": {
         "type": "local",
@@ -509,7 +509,7 @@
     {
       "name": "eu.ansvar/pakistani-law-mcp",
       "description": "Pakistani legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/Pakistani-law-mcp",
       "source": {
         "type": "local",
@@ -519,7 +519,7 @@
     {
       "name": "eu.ansvar/paraguayan-law-mcp",
       "description": "Paraguay legislation via MCP -- full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/paraguayan-law-mcp",
       "source": {
         "type": "local",
@@ -529,7 +529,7 @@
     {
       "name": "eu.ansvar/peruvian-law-mcp",
       "description": "Peruvian legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/Peruvian-law-mcp",
       "source": {
         "type": "local",
@@ -539,7 +539,7 @@
     {
       "name": "eu.ansvar/qatari-law-mcp",
       "description": "Qatari legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/Qatari-law-mcp",
       "source": {
         "type": "local",
@@ -549,7 +549,7 @@
     {
       "name": "eu.ansvar/romanian-law-mcp",
       "description": "Romanian legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/Romanian-law-mcp",
       "source": {
         "type": "local",
@@ -559,7 +559,7 @@
     {
       "name": "eu.ansvar/russian-law-mcp",
       "description": "Russian legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/Russian-Law-MCP",
       "source": {
         "type": "local",
@@ -569,7 +569,7 @@
     {
       "name": "eu.ansvar/saudi-law-mcp",
       "description": "Saudi legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/Saudi-law-mcp",
       "source": {
         "type": "local",
@@ -579,7 +579,7 @@
     {
       "name": "eu.ansvar/senegalese-law-mcp",
       "description": "Senegal legislation via MCP -- full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/senegalese-law-mcp",
       "source": {
         "type": "local",
@@ -589,7 +589,7 @@
     {
       "name": "eu.ansvar/singapore-law-mcp",
       "description": "Singapore law database — PDPA, Cybersecurity Act, Computer Misuse Act with full-text search",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/singapore-law-mcp",
       "source": {
         "type": "local",
@@ -599,7 +599,7 @@
     {
       "name": "eu.ansvar/slovak-law-mcp",
       "description": "Slovak legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/Slovak-law-mcp",
       "source": {
         "type": "local",
@@ -609,7 +609,7 @@
     {
       "name": "eu.ansvar/south-korea-law-mcp",
       "description": "South Korean law database — PIPA, ICT network security, credit information with full-text search",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/south-korea-law-mcp",
       "source": {
         "type": "local",
@@ -619,7 +619,7 @@
     {
       "name": "eu.ansvar/southafrica-law-mcp",
       "description": "South Africa legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/southafrica-law-mcp",
       "source": {
         "type": "local",
@@ -629,7 +629,7 @@
     {
       "name": "eu.ansvar/srilanka-law-mcp",
       "description": "Sri Lanka legislation via MCP -- full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/srilanka-law-mcp",
       "source": {
         "type": "local",
@@ -639,7 +639,7 @@
     {
       "name": "eu.ansvar/swedish-law-mcp",
       "description": "Query 750+ Swedish statutes, EU cross-references, case law, and preparatory works",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/swedish-law-mcp",
       "source": {
         "type": "local",
@@ -649,7 +649,7 @@
     {
       "name": "eu.ansvar/switzerland-law-mcp",
       "description": "Swiss law database — nFADP/DSG, information security, telecommunications with full-text search",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/switzerland-law-mcp",
       "source": {
         "type": "local",
@@ -659,7 +659,7 @@
     {
       "name": "eu.ansvar/taiwanese-law-mcp",
       "description": "Taiwanese legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/Taiwanese-law-mcp",
       "source": {
         "type": "local",
@@ -669,7 +669,7 @@
     {
       "name": "eu.ansvar/tanzanian-law-mcp",
       "description": "Tanzania legislation via MCP -- full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/tanzanian-law-mcp",
       "source": {
         "type": "local",
@@ -679,7 +679,7 @@
     {
       "name": "eu.ansvar/thailand-law-mcp",
       "description": "Thai law database — PDPA, Computer Crime Act, Cybersecurity Act, ETA with full-text search",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/thailand-law-mcp",
       "source": {
         "type": "local",
@@ -689,7 +689,7 @@
     {
       "name": "eu.ansvar/tunisian-law-mcp",
       "description": "Tunisia legislation via MCP -- full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/tunisian-law-mcp",
       "source": {
         "type": "local",
@@ -699,7 +699,7 @@
     {
       "name": "eu.ansvar/uae-law-mcp",
       "description": "UAE legislation via MCP — full-text search across federal laws, DIFC laws, and ADGM regulations",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/uae-law-mcp",
       "source": {
         "type": "local",
@@ -709,7 +709,7 @@
     {
       "name": "eu.ansvar/ugandan-law-mcp",
       "description": "Uganda legislation via MCP -- full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/ugandan-law-mcp",
       "source": {
         "type": "local",
@@ -719,7 +719,7 @@
     {
       "name": "eu.ansvar/ukrainian-law-mcp",
       "description": "Ukrainian legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/Ukrainian-law-mcp",
       "source": {
         "type": "local",
@@ -729,7 +729,7 @@
     {
       "name": "eu.ansvar/uruguayan-law-mcp",
       "description": "Uruguayan legislation via MCP — full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/Uruguayan-law-mcp",
       "source": {
         "type": "local",
@@ -739,7 +739,7 @@
     {
       "name": "eu.ansvar/zambian-law-mcp",
       "description": "Zambia legislation via MCP -- full-text search across statutes and provisions",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Ansvar-Systems/zambian-law-mcp",
       "source": {
         "type": "local",
@@ -749,7 +749,7 @@
     {
       "name": "frontend-design",
       "description": "Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. Helps with aesthetic direction, typography, and making choices that don't read as templated defaults.",
-      "category": "Skills",
+      "category": "productivity",
       "keywords": [
         "skill",
         "anthropic"
@@ -763,7 +763,7 @@
     {
       "name": "internal-comms",
       "description": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).",
-      "category": "Skills",
+      "category": "productivity",
       "keywords": [
         "skill",
         "anthropic"
@@ -777,7 +777,7 @@
     {
       "name": "io.github.aarna-ai/atv",
       "description": "Access Aarna's DeFi yield vaults — query NAV/TVL/APY, build transactions, track portfolios.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/aarna-ai/atv-sdk",
       "source": {
         "type": "local",
@@ -787,7 +787,7 @@
     {
       "name": "io.github.AIAppsAPI/adaptive-recall",
       "description": "Adaptive memory system with cognitive scoring, knowledge graph, and self-improving ML.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/AIAppsAPI/adaptive-recall",
       "source": {
         "type": "local",
@@ -797,7 +797,7 @@
     {
       "name": "io.github.AlexFloyd13/clevername-mcp",
       "description": "AI agent governance — security scanning, BYOK routing, audit logging, and Council approvals.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/AlexFloyd13/clevername",
       "source": {
         "type": "local",
@@ -807,7 +807,7 @@
     {
       "name": "io.github.amehiny/invoice-generator",
       "description": "Free invoice generator — create pre-filled invoice URLs with taxes, discounts, and 14 languages.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/amehiny/invoices-gen",
       "source": {
         "type": "local",
@@ -817,7 +817,7 @@
     {
       "name": "io.github.apolloio/mcp",
       "description": "Official Apollo.io MCP server for lead enrichment, prospecting, sequences, and analytics.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/apolloio/apollo-mcp-plugin",
       "source": {
         "type": "local",
@@ -827,7 +827,7 @@
     {
       "name": "io.github.architectds/mathgraphs-mcp",
       "description": "Math & statistics graphing, computation, visualization, and validation engine",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/architectds/mathgraphs-mcp",
       "source": {
         "type": "local",
@@ -837,7 +837,7 @@
     {
       "name": "io.github.ariffazil/aaa-mcp",
       "description": "Constitutional AI Governance with 13 enforced floors (F1-F13) and tri-witness consensus for LLMs.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/ariffazil/arifOS",
       "source": {
         "type": "local",
@@ -847,7 +847,7 @@
     {
       "name": "io.github.ariffazil/arifos-mcp",
       "description": "Constitutional AI governance server with 5-organ Trinity and enforced floors F1-F13.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/ariffazil/arifOS",
       "source": {
         "type": "local",
@@ -857,7 +857,7 @@
     {
       "name": "io.github.arikusi/deepseek",
       "description": "MCP server for DeepSeek AI with chat, reasoning, sessions, function calling, and cost tracking",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/arikusi/deepseek-mcp-server",
       "source": {
         "type": "local",
@@ -867,7 +867,7 @@
     {
       "name": "io.github.aybeeare/water-conditions",
       "description": "Real-time water temperature and tides for 8,000+ locations, by name or lat/long coordinates.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/aybeeare/water-temp-fishing-guide",
       "source": {
         "type": "local",
@@ -877,7 +877,7 @@
     {
       "name": "io.github.Baldri/nexbid",
       "description": "AI agent product discovery via open marketplace. Search, compare and discover advertiser products.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Baldri/nexbid",
       "source": {
         "type": "local",
@@ -887,7 +887,7 @@
     {
       "name": "io.github.contentforge-press/app-intel",
       "description": "Track App Store apps: free snapshot, paid review & sentiment intel via x402 USDC.",
-      "category": "MCP",
+      "category": "development",
       "source": {
         "type": "local",
         "path": "./plugins/mcp-io.github.contentforge-press-app-intel"
@@ -896,7 +896,7 @@
     {
       "name": "io.github.contentforge-press/github-intel",
       "description": "Track public GitHub repos: free snapshot, paid release, star & issue intel via x402 USDC.",
-      "category": "MCP",
+      "category": "development",
       "source": {
         "type": "local",
         "path": "./plugins/mcp-io.github.contentforge-press-github-intel"
@@ -905,7 +905,7 @@
     {
       "name": "io.github.contentforge-press/hiring-intel",
       "description": "Track public job boards: free snapshot, paid hiring-growth intel via x402 USDC.",
-      "category": "MCP",
+      "category": "development",
       "source": {
         "type": "local",
         "path": "./plugins/mcp-io.github.contentforge-press-hiring-intel"
@@ -914,7 +914,7 @@
     {
       "name": "io.github.contentforge-press/shopify-intel",
       "description": "Monitor public Shopify stores: free snapshot, paid change intel, competitor reports via x402 USDC.",
-      "category": "MCP",
+      "category": "development",
       "source": {
         "type": "local",
         "path": "./plugins/mcp-io.github.contentforge-press-shopify-intel"
@@ -923,7 +923,7 @@
     {
       "name": "io.github.derekslinz/meta-data-mcp",
       "description": "Query 76 open data APIs — government, science, finance, environment, and more.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/derekslinz/meta-data-mcp",
       "source": {
         "type": "local",
@@ -933,7 +933,7 @@
     {
       "name": "io.github.do-droid/busan-essentials",
       "description": "Find the nearest restroom, pharmacy, WiFi, or AED in Busan, Korea. 8,680 places, Korean+English.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/do-droid/busan-essentials",
       "source": {
         "type": "local",
@@ -943,7 +943,7 @@
     {
       "name": "io.github.do-droid/seoul-essentials",
       "description": "22,000+ Seoul public facility data for tourists: restrooms, pharmacies, WiFi, AEDs, and subway.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/do-droid/seoul-essentials",
       "source": {
         "type": "local",
@@ -953,7 +953,7 @@
     {
       "name": "io.github.elevasyncsolutions-jpg/cryptoboss-mcp",
       "description": "Crypto data & trading MCP with 43 tools: prices, DeFi, NFTs, Solana swaps. 11 tools free.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/elevasyncsolutions-jpg/cryptodata-api",
       "source": {
         "type": "local",
@@ -963,7 +963,7 @@
     {
       "name": "io.github.ElToro1855/ozav-mcp-server",
       "description": "Forex, IOF tax, US accounts, stablecoins, and international payments in Brazil.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/ElToro1855/ozav-mcp-server",
       "source": {
         "type": "local",
@@ -973,7 +973,7 @@
     {
       "name": "io.github.exp78/telldone",
       "description": "Voice-first planning — notes, tasks, events and AI reports. 21 tools. iOS + Apple Watch.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/exp78/telldone-mcp",
       "source": {
         "type": "local",
@@ -983,7 +983,7 @@
     {
       "name": "io.github.faulknerwayne73-droid/kojiru-mcp",
       "description": "Kojiru Recourse Layer — agent credit primitives (ACS, stake, draw, anchor) live on Base mainnet",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/faulknerwayne73-droid/kojiru-platform",
       "source": {
         "type": "local",
@@ -993,7 +993,7 @@
     {
       "name": "io.github.flat-cash/flatcash",
       "description": "Earn FLAT tokens (CPI-pegged stablecoin) by completing bounties. No wallet required.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/flat-cash/flatcash-mcp",
       "source": {
         "type": "local",
@@ -1003,7 +1003,7 @@
     {
       "name": "io.github.gkcogz/1trippulse",
       "description": "1trip PULSE: 21-tool AI travel planner. Flights, hotels, visa, safety, weather, 120+ cities.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/gkcogz/OneTrip-Beta",
       "source": {
         "type": "local",
@@ -1013,7 +1013,7 @@
     {
       "name": "io.github.Godalo-ai/godalo",
       "description": "Affiliate product search for AI agents. Merchant feeds, not web scraping. Works with any MCP client.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Godalo-ai/godalo-mcp",
       "source": {
         "type": "local",
@@ -1023,7 +1023,7 @@
     {
       "name": "io.github.heterogentdev/heterogent",
       "description": "Hire AI agents with trustless USDC escrow on Solana from your AI assistant.",
-      "category": "MCP",
+      "category": "development",
       "source": {
         "type": "local",
         "path": "./plugins/mcp-io.github.heterogentdev-heterogent"
@@ -1032,7 +1032,7 @@
     {
       "name": "io.github.hifriendbot/cogmemai",
       "description": "Memory for any Ai: remembers across sessions, enforces your rules before actions, reviews the work.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/hifriendbot/cogmemai-mcp",
       "source": {
         "type": "local",
@@ -1042,7 +1042,7 @@
     {
       "name": "io.github.imbenrabi/financial-modeling-prep-mcp-server",
       "description": "MCP server for Financial Modeling Prep API with 250+ financial data tools",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/imbenrabi/Financial-Modeling-Prep-MCP-Server",
       "source": {
         "type": "local",
@@ -1052,7 +1052,7 @@
     {
       "name": "io.github.jamesrez/valoria",
       "description": "Make money with x402. See what's earning, find profitable gaps, and price your service right.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/jamesrez/valoria-intelligence",
       "source": {
         "type": "local",
@@ -1062,7 +1062,7 @@
     {
       "name": "io.github.jamesrez/valoria-intelligence",
       "description": "Find where the money is in AI services. See what's earning and find market gaps.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/jamesrez/valoria-intelligence",
       "source": {
         "type": "local",
@@ -1072,7 +1072,7 @@
     {
       "name": "io.github.JOHNZhang-ui/shotflow-mcp",
       "description": "ShotFlow MCP Server — AI分镜脚本与视频生成智能体，支持生成专业分镜、视频、镜头重生成、配额查询等能力。",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/JOHNZhang-ui/shotflow-mcp",
       "source": {
         "type": "local",
@@ -1082,7 +1082,7 @@
     {
       "name": "io.github.jrse/jaraco_website",
       "description": "Jaraco GmbH Website MCP Server - programmatic access to content",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/jaracogmbh/jarakube-jaraco-app",
       "source": {
         "type": "local",
@@ -1092,7 +1092,7 @@
     {
       "name": "io.github.kkohli-nyu/findvise-mcp",
       "description": "AI-native local business data. Find businesses, browse menus, check ratings, and place orders.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/kkohli-nyu/findvise",
       "source": {
         "type": "local",
@@ -1102,7 +1102,7 @@
     {
       "name": "io.github.kushneryk/join.cloud",
       "description": "Collaboration rooms for AI agents. Real-time messaging + standard git.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/kushneryk/join.cloud",
       "source": {
         "type": "local",
@@ -1112,7 +1112,7 @@
     {
       "name": "io.github.laundromatic/shopgraph",
       "description": "Clean product data from any URL. Schema.org + AI extraction. 200 free calls/month.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/laundromatic/shopgraph",
       "source": {
         "type": "local",
@@ -1122,7 +1122,7 @@
     {
       "name": "io.github.lazymac2x/smart-data-extractor",
       "description": "smart-data-extractor MCP server on Cloudflare Workers · REST + MCP JSON-RPC · free tier",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/lazymac2x/smart-data-extractor-worker",
       "source": {
         "type": "local",
@@ -1132,7 +1132,7 @@
     {
       "name": "io.github.littleblakew/msds-chain",
       "description": "Chemical safety intelligence — 27 tools: compatibility, hazards, PPE, compliance, SDS lookup",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/littleblakew/msds-chain-mcp",
       "source": {
         "type": "local",
@@ -1142,7 +1142,7 @@
     {
       "name": "io.github.lj22503/invest-brain",
       "description": "A-share investment research: quotes, financials, behavior patterns, and trading journals.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/lj22503/invest-brain",
       "source": {
         "type": "local",
@@ -1152,7 +1152,7 @@
     {
       "name": "io.github.localseodata/mcp-server",
       "description": "53 local SEO data tools: rankings, reviews, audits, keywords, AI visibility.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/localseodata/mcp-server",
       "source": {
         "type": "local",
@@ -1162,7 +1162,7 @@
     {
       "name": "io.github.marvennai/marvenn-mcp",
       "description": "Connect AI agents to Marvenn for outbound growth via email, voice, and LinkedIn.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/marvennai/mcp-server",
       "source": {
         "type": "local",
@@ -1172,7 +1172,7 @@
     {
       "name": "io.github.meloncafe/chromadb-remote-mcp",
       "description": "Remote ChromaDB vector database MCP server with streamable HTTP transport",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/meloncafe/chromadb-remote-mcp",
       "source": {
         "type": "local",
@@ -1182,7 +1182,7 @@
     {
       "name": "io.github.meltingpixelsai/harvey-budget",
       "description": "Agent spending management with budget tracking, ROI analysis, and spend approval.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/meltingpixelsai/harvey-budget",
       "source": {
         "type": "local",
@@ -1192,7 +1192,7 @@
     {
       "name": "io.github.meltingpixelsai/harvey-intel",
       "description": "Token safety, trading signals, and social intel for AI agents. Pay-per-call USDC.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/meltingpixelsai/harvey-intel",
       "source": {
         "type": "local",
@@ -1202,7 +1202,7 @@
     {
       "name": "io.github.meltingpixelsai/harvey-tools",
       "description": "Web scraping, code review, content generation, and analysis tools. Pay-per-call USDC.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/meltingpixelsai/harvey-tools",
       "source": {
         "type": "local",
@@ -1212,7 +1212,7 @@
     {
       "name": "io.github.meltingpixelsai/harvey-verify",
       "description": "Post-transaction outcome verification. LLM-as-judge for agent service quality.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/meltingpixelsai/harvey-verify",
       "source": {
         "type": "local",
@@ -1222,7 +1222,7 @@
     {
       "name": "io.github.meltingpixelsai/relayzero",
       "description": "Agent economy on Solana — USDC via x402. Ships a BuyerAgent SDK + relayzero pay CLI.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/meltingpixelsai/relayzero",
       "source": {
         "type": "local",
@@ -1232,7 +1232,7 @@
     {
       "name": "io.github.meltingpixelsai/zero-core-budget",
       "description": "Agent spending mgmt, budget tracking, ROI. Zero Core Budget.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/meltingpixelsai/harvey-budget",
       "source": {
         "type": "local",
@@ -1242,7 +1242,7 @@
     {
       "name": "io.github.meltingpixelsai/zero-core-intel",
       "description": "DrainBrain token safety, CORTEX trading signals, social trends. Zero Core Intel.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/meltingpixelsai/harvey-intel",
       "source": {
         "type": "local",
@@ -1252,7 +1252,7 @@
     {
       "name": "io.github.meltingpixelsai/zero-core-tools",
       "description": "Web scraping, code review, content gen, sentiment. Zero Core Tools.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/meltingpixelsai/harvey-tools",
       "source": {
         "type": "local",
@@ -1262,7 +1262,7 @@
     {
       "name": "io.github.meltingpixelsai/zero-core-verify",
       "description": "Post-tx outcome verification via LLM-as-judge. Zero Core Verify.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/meltingpixelsai/harvey-verify",
       "source": {
         "type": "local",
@@ -1272,7 +1272,7 @@
     {
       "name": "io.github.mifactory-bot/mifactory-contratos",
       "description": "Freelance contracts via API for any country. AI-generated or PDF. Pay-per-use: $5-$20.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/mifactory-bot/freelance-contracts",
       "source": {
         "type": "local",
@@ -1282,7 +1282,7 @@
     {
       "name": "io.github.mifactory-bot/mifactory-logic-verifier",
       "description": "Verify AI agent reasoning and logic for errors and contradictions. Pay-per-use.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/mifactory-bot/mifactory-logic-verifier",
       "source": {
         "type": "local",
@@ -1292,7 +1292,7 @@
     {
       "name": "io.github.mister-franklin/gdpr-decisions",
       "description": "EU GDPR decisions by thedpo.eu — search all EU DPA decisions and recommendations",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/mister-franklin/mcp-gdpr-decisions",
       "source": {
         "type": "local",
@@ -1302,7 +1302,7 @@
     {
       "name": "io.github.mizukaizen/hive-doctrine-mcp",
       "description": "Agent knowledge marketplace. 105 products, 6 MCP tools, x402 payments on Base network.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/mizukaizen/hive-doctrine-mcp",
       "source": {
         "type": "local",
@@ -1312,7 +1312,7 @@
     {
       "name": "io.github.mjandrews1/c3fst-biomedical-search",
       "description": "Biomedical search: FDA drugs, MeSH headings, ClinVar genomic variants with BM25 ranking.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/mjandrews1/c3fst",
       "source": {
         "type": "local",
@@ -1322,7 +1322,7 @@
     {
       "name": "io.github.moltstudios/lumnix",
       "description": "E-commerce research via MCP. Amazon, Alibaba & AliExpress product search and FBA margins.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/moltstudios/lumnix-mcp",
       "source": {
         "type": "local",
@@ -1332,7 +1332,7 @@
     {
       "name": "io.github.morebetterclaw/forge-swap",
       "description": "FORGE Swap — cross-chain swaps via THORChain. Quote and execute BTC, ETH, RUNE, USDC swaps.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/morebetterclaw/forge",
       "source": {
         "type": "local",
@@ -1342,7 +1342,7 @@
     {
       "name": "io.github.mountainmystic/hedera-mcp-platform",
       "description": "Hedera ecosystem intelligence for AI agents. 29 tools, pay per call in HBAR. HITL enforced.",
-      "category": "MCP",
+      "category": "development",
       "source": {
         "type": "local",
         "path": "./plugins/mcp-io.github.mountainmystic-hedera-mcp-platform"
@@ -1351,7 +1351,7 @@
     {
       "name": "io.github.mountainmystic/hederatoolbox",
       "description": "Hedera blockchain intelligence for AI agents. 23 tools, 7 modules. HBAR micropayments. No signup.",
-      "category": "MCP",
+      "category": "development",
       "source": {
         "type": "local",
         "path": "./plugins/mcp-io.github.mountainmystic-hederatoolbox"
@@ -1360,7 +1360,7 @@
     {
       "name": "io.github.Nordvei/nordic-energy-oracle",
       "description": "Nordic energy price intelligence for Norway's 5 bidding zones (NO1-NO5).",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Nordvei/sage-native",
       "source": {
         "type": "local",
@@ -1370,7 +1370,7 @@
     {
       "name": "io.github.norrietaylor/distillery-mcp",
       "description": "Knowledge base for Claude Code with semantic search, feed intelligence, and teams",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/norrietaylor/distillery",
       "source": {
         "type": "local",
@@ -1380,7 +1380,7 @@
     {
       "name": "io.github.ONLYOFFICE/docspace",
       "description": "A room-based collaborative platform",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/ONLYOFFICE/docspace-mcp",
       "source": {
         "type": "local",
@@ -1390,7 +1390,7 @@
     {
       "name": "io.github.prakhargour10/utility-mcp-server",
       "description": "List and fetch official Pine Labs SDK API documentation via MCP tools.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/prakhargour10/utility-mcp-server",
       "source": {
         "type": "local",
@@ -1400,7 +1400,7 @@
     {
       "name": "io.github.raresv/cardora-business-assistant",
       "description": "Cardora loyalty program analytics for business owners. Customer joins, stamps, rewards, and trends.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/raresv/neocards",
       "source": {
         "type": "local",
@@ -1410,7 +1410,7 @@
     {
       "name": "io.github.rodrigojille/kustodia-escrow",
       "description": "Agentic escrow payments — fiat + crypto, 36 MCP tools, 10 chains, FHE privacy",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/rodrigojille/kustodia_api",
       "source": {
         "type": "local",
@@ -1420,7 +1420,7 @@
     {
       "name": "io.github.SamYuan1990/i18n-agent-action",
       "description": "An i18n github action for language translate",
-      "category": "MCP",
+      "category": "development",
       "source": {
         "type": "local",
         "path": "./plugins/mcp-io.github.samyuan1990-i18n-agent-action"
@@ -1429,7 +1429,7 @@
     {
       "name": "io.github.shabaaspay/shabaaspay-mcp-server",
       "description": "MCP server for PayTo agreements and payment initiation in Australia.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/shabaaspay/shabaaspay-mcp-server",
       "source": {
         "type": "local",
@@ -1439,7 +1439,7 @@
     {
       "name": "io.github.Shuangshuang007/workopia",
       "description": "Workopia - free MCP for global job search, PDF resume builder, and AI career advice.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/workopia/workopia-mcp",
       "source": {
         "type": "local",
@@ -1449,7 +1449,7 @@
     {
       "name": "io.github.SocioLogicAI/signal-relay",
       "description": "Connect AI agents to SocioLogic's synthetic persona platform for market research.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/SocioLogicAI/signal-relay",
       "source": {
         "type": "local",
@@ -1459,7 +1459,7 @@
     {
       "name": "io.github.sudomichael/gizmoanalytics",
       "description": "Cookieless analytics for AI coding agents. Install in one prompt, 28 tools, OAuth onboarding.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/sudomichael/analyticsautopilot",
       "source": {
         "type": "local",
@@ -1469,7 +1469,7 @@
     {
       "name": "io.github.teamsincetoday/newsletter-commerce-mcp",
       "description": "Extract shoppable products from newsletter content with affiliate signals.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/teamsincetoday/newsletter-commerce-mcp",
       "source": {
         "type": "local",
@@ -1479,7 +1479,7 @@
     {
       "name": "io.github.teamsincetoday/podcast-commerce-mcp",
       "description": "Extract product mentions from podcast transcripts with affiliate signals. Free tier 200/day.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/teamsincetoday/podcast-commerce-mcp",
       "source": {
         "type": "local",
@@ -1489,7 +1489,7 @@
     {
       "name": "io.github.teamsincetoday/recipe-commerce-mcp",
       "description": "Extract shoppable ingredients from recipe content with affiliate signals.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/teamsincetoday/recipe-commerce-mcp",
       "source": {
         "type": "local",
@@ -1499,7 +1499,7 @@
     {
       "name": "io.github.thingery/thingery",
       "description": "Open item database and MCP server for AI agents to list, find, and trade second-hand goods.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/thingery/thingery",
       "source": {
         "type": "local",
@@ -1509,7 +1509,7 @@
     {
       "name": "io.github.ThomasViennet/referencime",
       "description": "Identifiez les meilleurs spots netlinking selon leur performance Google réelle.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/ThomasViennet/mcp-referencime",
       "source": {
         "type": "local",
@@ -1519,7 +1519,7 @@
     {
       "name": "io.github.trypeach-io/mcp",
       "description": "Send and manage WhatsApp messages, contacts, templates, and events via Peach AI.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/trypeach-io/mcp",
       "source": {
         "type": "local",
@@ -1529,7 +1529,7 @@
     {
       "name": "io.github.US1929/switchai",
       "description": "Compare Italian energy tariffs with AI. Analyzes bills, finds best offers, live market indices.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/US1929/switchai",
       "source": {
         "type": "local",
@@ -1539,7 +1539,7 @@
     {
       "name": "io.github.webios2026-byte/solradar-mcp",
       "description": "Solana meme-coin trust scores, rug-risk flags, and wallet analytics from SolRadar.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/webios2026-byte/solradar-mcp",
       "source": {
         "type": "local",
@@ -1549,7 +1549,7 @@
     {
       "name": "io.github.xenarch-ai/xenarch-mcp",
       "description": "Xenarch — x402 MCP server for AI agent payments. Non-custodial, USDC on Base L2.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/xenarch-ai/xenarch-mcp",
       "source": {
         "type": "local",
@@ -1559,7 +1559,7 @@
     {
       "name": "io.github.yunaremaia/x402-crypto-mcp",
       "description": "Crypto market data via x402: prices, convert, indicators, yields, gas, tx status, balances, ENS.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/yunaremaia/x402-crypto-mcp",
       "source": {
         "type": "local",
@@ -1569,7 +1569,7 @@
     {
       "name": "io.verityscore/geo-audit",
       "description": "GEO audit for Shopify: AI readiness score, recommendations, and 15 vertical checklists.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/Milka974/verityscore-mcp",
       "source": {
         "type": "local",
@@ -1579,7 +1579,7 @@
     {
       "name": "link.aotrust/notary",
       "description": "Cryptographic proof of existence for AI agents. x402 on Base or Solana, NEAR anchored. Free tier.",
-      "category": "MCP",
+      "category": "development",
       "homepage": "https://github.com/GitSerge-crypto/aotrust-skills",
       "source": {
         "type": "local",
@@ -1589,7 +1589,7 @@
     {
       "name": "mcp-builder",
       "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
-      "category": "Skills",
+      "category": "productivity",
       "keywords": [
         "skill",
         "anthropic"
@@ -1603,7 +1603,7 @@
     {
       "name": "pdf",
       "description": "Use this skill whenever the user wants to do anything with PDF files. This includes reading or extracting text/tables from PDFs, combining or merging multiple PDFs into one, splitting PDFs apart, rotating pages, adding watermarks, creating new PDFs, filling PDF forms, encrypting/decrypting PDFs, extracting images, and OCR on scanned PDFs to make them searchable. If the user mentions a .pdf file or asks to produce one, use this skill.",
-      "category": "Skills",
+      "category": "productivity",
       "keywords": [
         "skill",
         "anthropic"
@@ -1617,7 +1617,7 @@
     {
       "name": "pptx",
       "description": "Use this skill any time a .pptx or .potx file is involved in any way — as input, output, or both. This includes: creating slide decks, pitch decks, or presentations; reading, parsing, or extracting text from any .pptx or .potx file (even if the extracted content will be used elsewhere, like in an email or summary); editing, modifying, or updating existing presentations; combining or splitting slide files; working with templates (.potx), layouts, speaker notes, or comments. Trigger whenever the user mentions \\\"deck,\\\" \\\"slides,\\\" \\\"presentation,\\\" or references a .pptx or .potx filename, regardless of what they plan to do with the content afterward. If a .pptx or .potx file needs to be opened, created, or touched, use this skill.",
-      "category": "Skills",
+      "category": "productivity",
       "keywords": [
         "skill",
         "anthropic"
@@ -1631,7 +1631,7 @@
     {
       "name": "skill-creator",
       "description": "Create new skills, modify and improve existing skills, and measure skill performance. Use when users want to create a skill from scratch, edit, or optimize an existing skill, run evals to test a skill, benchmark skill performance with variance analysis, or optimize a skill's description for better triggering accuracy.",
-      "category": "Skills",
+      "category": "productivity",
       "keywords": [
         "skill",
         "anthropic"
@@ -1645,7 +1645,7 @@
     {
       "name": "slack-gif-creator",
       "description": "Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation tools, and animation concepts. Use when users request animated GIFs for Slack like \"make me a GIF of X doing Y for Slack.",
-      "category": "Skills",
+      "category": "productivity",
       "keywords": [
         "skill",
         "anthropic"
@@ -1659,7 +1659,7 @@
     {
       "name": "theme-factory",
       "description": "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can apply to any artifact that has been creating, or can generate a new theme on-the-fly.",
-      "category": "Skills",
+      "category": "productivity",
       "keywords": [
         "skill",
         "anthropic"
@@ -1673,7 +1673,7 @@
     {
       "name": "web-artifacts-builder",
       "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state management, routing, or shadcn/ui components - not for simple single-file HTML/JSX artifacts.",
-      "category": "Skills",
+      "category": "productivity",
       "keywords": [
         "skill",
         "anthropic"
@@ -1687,7 +1687,7 @@
     {
       "name": "webapp-testing",
       "description": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.",
-      "category": "Skills",
+      "category": "productivity",
       "keywords": [
         "skill",
         "anthropic"
@@ -1701,7 +1701,7 @@
     {
       "name": "xlsx",
       "description": "Use this skill any time a spreadsheet file is the primary input or output. This means any task where the user wants to: open, read, edit, or fix an existing .xlsx, .xlsm, .xltx, .csv, or .tsv file (e.g., adding columns, computing formulas, formatting, charting, cleaning messy data); create a new spreadsheet from scratch or from other data sources; or convert between tabular file formats. Trigger especially when the user references a spreadsheet file by name or path — even casually (like \\\"the xlsx in my downloads\\\") — and wants something done to it or produced from it. Also trigger for cleaning or restructuring messy tabular data files (malformed rows, misplaced headers, junk data) into proper spreadsheets. The deliverable must be a spreadsheet file. Do NOT trigger when the primary deliverable is a Word document, HTML report, standalone Python script, database pipeline, or Google Sheets API integration, even if tabular data is involved.",
-      "category": "Skills",
+      "category": "productivity",
       "keywords": [
         "skill",
         "anthropic"

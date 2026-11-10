@@ -117,7 +117,7 @@ for (const source of sources) {
     entries.push({
       name: frontmatter.name.slice(0, 120),
       description: frontmatter.description.slice(0, 4000),
-      category: "Skills",
+      category: "productivity",
       keywords: ["skill", source.id],
       homepage: source.repo,
       source: { type: "local", path: `./plugins/${folder}` },
